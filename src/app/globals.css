@@ -1,0 +1,107 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 40 20% 98%;
+    --foreground: 220 15% 14%;
+  }
+
+  body {
+    @apply bg-[#faf8f5] text-stone-900 dark:bg-[#0b0f17] dark:text-stone-100 min-h-screen antialiased selection:bg-torii-500 selection:text-white transition-colors duration-300;
+    font-feature-settings: "palt" 1;
+    background-image: 
+      radial-gradient(at 10% 10%, rgba(225, 73, 66, 0.03) 0px, transparent 50%),
+      radial-gradient(at 90% 90%, rgba(79, 113, 246, 0.03) 0px, transparent 50%);
+  }
+
+  .dark body {
+    background-image: 
+      radial-gradient(at 20% 10%, rgba(225, 73, 66, 0.08) 0px, transparent 50%),
+      radial-gradient(at 80% 90%, rgba(59, 130, 246, 0.06) 0px, transparent 50%);
+  }
+}
+
+/* 3D Flip Card Styles cho Flashcard */
+.perspective-1000 {
+  perspective: 1000px;
+}
+
+.transform-style-3d {
+  transform-style: preserve-3d;
+}
+
+.backface-hidden {
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+
+.rotate-y-180 {
+  transform: rotateY(180deg);
+}
+
+/* Tùy chỉnh thanh cuộn mảnh và mượt */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-stone-300/80 dark:bg-stone-700/80 rounded-full hover:bg-stone-400 dark:hover:bg-stone-600 transition-colors;
+}
+
+/* Glassmorphism Classes */
+.glass-panel {
+  @apply bg-white/80 dark:bg-stone-900/75 backdrop-blur-xl border border-stone-200/80 dark:border-white/[0.08] shadow-[0_8px_30px_rgb(0,0,0,0.04)] dark:shadow-[0_8px_30px_rgb(0,0,0,0.35)];
+}
+
+.glass-card {
+  @apply bg-white/90 dark:bg-stone-900/85 backdrop-blur-md border border-stone-200/70 dark:border-white/[0.07] shadow-sm hover:shadow-md transition-all duration-300;
+}
+
+/* Hiệu ứng tương tác card */
+.card-hover-glow {
+  @apply transition-all duration-300 hover:-translate-y-1 hover:shadow-xl hover:border-torii-400/50 dark:hover:border-torii-500/50 hover:shadow-torii-500/10;
+}
+
+/* Chữ Gradient Torii */
+.text-gradient-torii {
+  @apply bg-gradient-to-r from-torii-600 via-rose-500 to-amber-500 dark:from-torii-400 dark:via-rose-400 dark:to-amber-400 bg-clip-text text-transparent;
+}
+
+/* Kbd key tag */
+kbd {
+  @apply inline-block px-1.5 py-0.5 rounded-md bg-stone-100 dark:bg-stone-800 border border-stone-200 dark:border-stone-700 text-[10px] font-mono text-stone-600 dark:text-stone-300 shadow-[0_1px_1px_rgba(0,0,0,0.1)];
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: scale(0.98) translateY(4px);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.25s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+/* Shimmer Highlight */
+.shimmer-bg {
+  background: linear-gradient(90deg, rgba(255,255,255,0) 0%, rgba(255,255,255,0.08) 50%, rgba(255,255,255,0) 100%);
+  background-size: 200% 100%;
+}
+
+/* An toàn cho màn hình notch trên điện thoại */
+.pb-safe {
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+}

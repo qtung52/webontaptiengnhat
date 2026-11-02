@@ -1,0 +1,3398 @@
+[
+  {
+    "id": "kanji_manabiman_1",
+    "kanji": "私",
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "わたし",
+      "わたくし"
+    ],
+    "hanViet": "TƯ",
+    "meaningVi": "Tôi, riêng tư",
+    "radical": "私",
+    "strokes": 7,
+    "level": "N5",
+    "topic": "JPD113 - Bài 1: Giới thiệu bản thân và Trường học",
+    "mnemonicEmoji": "🍱",
+    "mnemonicNoteVi": "Giữ bó lúa (禾) cho riêng mình (厶) — thành chữ tôi (私).",
+    "examples": [
+      {
+        "word": "私",
+        "reading": "わたし",
+        "meaning": "Tôi"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_2",
+    "kanji": "日",
+    "on": [
+      "ニチ",
+      "ジツ"
+    ],
+    "kun": [
+      "ひ",
+      "か"
+    ],
+    "hanViet": "NHẬT",
+    "meaningVi": "Mặt trời, ngày",
+    "radical": "日",
+    "strokes": 4,
+    "level": "N5",
+    "topic": "JPD113 - Bài 1: Giới thiệu bản thân và Trường học",
+    "mnemonicEmoji": "🍱",
+    "mnemonicNoteVi": "Vòng tròn mặt trời có chấm ở giữa, viết vuông lại thành 日.",
+    "examples": [
+      {
+        "word": "日本",
+        "reading": "にほん",
+        "meaning": "Nhật Bản"
+      },
+      {
+        "word": "日本語",
+        "reading": "にほんご",
+        "meaning": "Tiếng Nhật"
+      },
+      {
+        "word": "日本語学校",
+        "reading": "にほんごがっこう",
+        "meaning": "Trường tiếng Nhật"
+      },
+      {
+        "word": "日ようび",
+        "reading": "にちようび",
+        "meaning": "Chủ nhật"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_3",
+    "kanji": "本",
+    "on": [
+      "ホン"
+    ],
+    "kun": [
+      "もと"
+    ],
+    "hanViet": "BẢN",
+    "meaningVi": "Gốc, sách, căn bản",
+    "radical": "本",
+    "strokes": 3,
+    "level": "N5",
+    "topic": "JPD113 - Bài 1: Giới thiệu bản thân và Trường học",
+    "mnemonicEmoji": "🍱",
+    "mnemonicNoteVi": "Thân cây (木) gạch một vạch ngay gốc — chỉ vào GỐC rễ.",
+    "examples": [
+      {
+        "word": "日本",
+        "reading": "にほん",
+        "meaning": "Nhật Bản"
+      },
+      {
+        "word": "日本語",
+        "reading": "にほんご",
+        "meaning": "Tiếng Nhật"
+      },
+      {
+        "word": "日本語学校",
+        "reading": "にほんごがっこう",
+        "meaning": "Trường tiếng Nhật"
+      },
+      {
+        "word": "本",
+        "reading": "ほん",
+        "meaning": "Sách"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_4",
+    "kanji": "大",
+    "on": [
+      "ダイ",
+      "タイ"
+    ],
+    "kun": [
+      "おおきい"
+    ],
+    "hanViet": "ĐẠI",
+    "meaningVi": "To, lớn",
+    "radical": "大",
+    "strokes": 3,
+    "level": "N5",
+    "topic": "JPD113 - Bài 1: Giới thiệu bản thân và Trường học",
+    "mnemonicEmoji": "🍱",
+    "mnemonicNoteVi": "Người dang rộng hai tay hai chân — to hết cỡ.",
+    "examples": [
+      {
+        "word": "大学",
+        "reading": "だいがく",
+        "meaning": "Đại học"
+      },
+      {
+        "word": "大きい",
+        "reading": "おおきい",
+        "meaning": "To, lớn"
+      },
+      {
+        "word": "大学生",
+        "reading": "だいがくせい",
+        "meaning": "Sinh viên đại học"
+      },
+      {
+        "word": "大切（な）",
+        "reading": "たいせつ",
+        "meaning": "Quan trọng / Quý giá"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_5",
+    "kanji": "学",
+    "on": [
+      "ガク"
+    ],
+    "kun": [
+      "まなぶ"
+    ],
+    "hanViet": "HỌC",
+    "meaningVi": "Học tập",
+    "radical": "学",
+    "strokes": 5,
+    "level": "N5",
+    "topic": "JPD113 - Bài 1: Giới thiệu bản thân và Trường học",
+    "mnemonicEmoji": "🍱",
+    "mnemonicNoteVi": "Đứa trẻ (子) ngồi dưới mái trường, trên đầu lấp lánh chữ nghĩa.",
+    "examples": [
+      {
+        "word": "大学",
+        "reading": "だいがく",
+        "meaning": "Đại học"
+      },
+      {
+        "word": "日本語学校",
+        "reading": "にほんごがっこう",
+        "meaning": "Trường tiếng Nhật"
+      },
+      {
+        "word": "学生",
+        "reading": "がくせい",
+        "meaning": "Học sinh / sinh viên"
+      },
+      {
+        "word": "学校",
+        "reading": "がっこう",
+        "meaning": "Trường học"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_6",
+    "kanji": "語",
+    "on": [
+      "ゴ"
+    ],
+    "kun": [
+      "かたる"
+    ],
+    "hanViet": "NGỮ",
+    "meaningVi": "Ngôn ngữ, tiếng nói",
+    "radical": "語",
+    "strokes": 6,
+    "level": "N5",
+    "topic": "JPD113 - Bài 1: Giới thiệu bản thân và Trường học",
+    "mnemonicEmoji": "🍱",
+    "mnemonicNoteVi": "Lời nói (訁) của ta (吾) — chính là ngôn ngữ.",
+    "examples": [
+      {
+        "word": "日本語",
+        "reading": "にほんご",
+        "meaning": "Tiếng Nhật"
+      },
+      {
+        "word": "日本語学校",
+        "reading": "にほんごがっこう",
+        "meaning": "Trường tiếng Nhật"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_7",
+    "kanji": "校",
+    "on": [
+      "コウ"
+    ],
+    "kun": [],
+    "hanViet": "HIỆU",
+    "meaningVi": "Trường học",
+    "radical": "校",
+    "strokes": 10,
+    "level": "N5",
+    "topic": "JPD113 - Bài 1: Giới thiệu bản thân và Trường học",
+    "mnemonicEmoji": "🍱",
+    "mnemonicNoteVi": "Nhà gỗ (木) nơi người ta gặp gỡ (交) nhau — trường học.",
+    "examples": [
+      {
+        "word": "日本語学校",
+        "reading": "にほんごがっこう",
+        "meaning": "Trường tiếng Nhật"
+      },
+      {
+        "word": "学校",
+        "reading": "がっこう",
+        "meaning": "Trường học"
+      },
+      {
+        "word": "高校生",
+        "reading": "こうこうせい",
+        "meaning": "Học sinh cấp ba"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_8",
+    "kanji": "生",
+    "on": [
+      "セイ",
+      "ショウ"
+    ],
+    "kun": [
+      "いきる",
+      "うまれる",
+      "なま"
+    ],
+    "hanViet": "SINH",
+    "meaningVi": "Sinh sống, sinh ra",
+    "radical": "生",
+    "strokes": 5,
+    "level": "N5",
+    "topic": "JPD113 - Bài 1: Giới thiệu bản thân và Trường học",
+    "mnemonicEmoji": "🍱",
+    "mnemonicNoteVi": "Mầm non nhú lên khỏi mặt đất — sự sống bắt đầu.",
+    "examples": [
+      {
+        "word": "学生",
+        "reading": "がくせい",
+        "meaning": "Học sinh / sinh viên"
+      },
+      {
+        "word": "高校生",
+        "reading": "こうこうせい",
+        "meaning": "Học sinh cấp ba"
+      },
+      {
+        "word": "大学生",
+        "reading": "だいがくせい",
+        "meaning": "Sinh viên đại học"
+      },
+      {
+        "word": "小学生",
+        "reading": "しょうがくせい",
+        "meaning": "Học sinh tiểu học, cấp 1"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_9",
+    "kanji": "人",
+    "on": [
+      "ジン",
+      "ニン"
+    ],
+    "kun": [
+      "ひと"
+    ],
+    "hanViet": "NHÂN",
+    "meaningVi": "Người",
+    "radical": "人",
+    "strokes": 2,
+    "level": "N5",
+    "topic": "JPD113 - Bài 1: Giới thiệu bản thân và Trường học",
+    "mnemonicEmoji": "🍱",
+    "mnemonicNoteVi": "Hai nét chống vào nhau như hai chân người đang bước.",
+    "examples": [
+      {
+        "word": "～人",
+        "reading": "～じん",
+        "meaning": "Người nước ~"
+      },
+      {
+        "word": "人",
+        "reading": "ひと",
+        "meaning": "Người"
+      },
+      {
+        "word": "一人で",
+        "reading": "ひとりで",
+        "meaning": "Một mình"
+      },
+      {
+        "word": "～人",
+        "reading": "にん",
+        "meaning": "～ người (đơn vị đếm người)"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_10",
+    "kanji": "才",
+    "on": [
+      "サイ"
+    ],
+    "kun": [],
+    "hanViet": "TÀI",
+    "meaningVi": "Tuổi, tài năng",
+    "radical": "才",
+    "strokes": 3,
+    "level": "N5",
+    "topic": "JPD113 - Bài 1: Giới thiệu bản thân và Trường học",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Mầm cây vừa nứt đất, đã thấy tài năng.",
+    "examples": [
+      {
+        "word": "才",
+        "reading": "サイ",
+        "meaning": "Tuổi, tài năng"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_11",
+    "kanji": "一",
+    "on": [
+      "イチ",
+      "イツ"
+    ],
+    "kun": [],
+    "hanViet": "NHẤT",
+    "meaningVi": "Số một ひと.つ",
+    "radical": "一",
+    "strokes": 1,
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Một vạch ngang: một.",
+    "examples": [
+      {
+        "word": "一年中",
+        "reading": "いちねんじゅう",
+        "meaning": "Suốt 1 năm"
+      },
+      {
+        "word": "一人で",
+        "reading": "ひとりで",
+        "meaning": "Một mình"
+      },
+      {
+        "word": "一人",
+        "reading": "ひとり",
+        "meaning": "1 người (cách đọc đặc biệt)"
+      },
+      {
+        "word": "一匹",
+        "reading": "いっぴき",
+        "meaning": "1 con vật"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_12",
+    "kanji": "二",
+    "on": [
+      "ニ"
+    ],
+    "kun": [],
+    "hanViet": "NHỊ",
+    "meaningVi": "Số hai ふた.つ",
+    "radical": "二",
+    "strokes": 2,
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Hai vạch ngang: hai.",
+    "examples": [
+      {
+        "word": "二人",
+        "reading": "ふたり",
+        "meaning": "2 người (cách đọc đặc biệt)"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_13",
+    "kanji": "三",
+    "on": [
+      "サン"
+    ],
+    "kun": [],
+    "hanViet": "TAM",
+    "meaningVi": "Số ba みっ.つ",
+    "radical": "三",
+    "strokes": 3,
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Ba vạch ngang: ba.",
+    "examples": [
+      {
+        "word": "三",
+        "reading": "サン",
+        "meaning": "Số ba みっ.つ"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_14",
+    "kanji": "四",
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "よん"
+    ],
+    "hanViet": "TỨ",
+    "meaningVi": "Số bốn よっ.つ",
+    "radical": "四",
+    "strokes": 5,
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Bốn bức tường (囗) quây lấy đôi chân bên trong.",
+    "examples": [
+      {
+        "word": "四",
+        "reading": "よん",
+        "meaning": "Số bốn よっ.つ"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_15",
+    "kanji": "五",
+    "on": [
+      "ゴ"
+    ],
+    "kun": [],
+    "hanViet": "NGŨ",
+    "meaningVi": "Số năm いつ.つ",
+    "radical": "五",
+    "strokes": 5,
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Hai vạch trên dưới kẹp một nét gấp ở giữa — số năm.",
+    "examples": [
+      {
+        "word": "五",
+        "reading": "ゴ",
+        "meaning": "Số năm いつ.つ"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_16",
+    "kanji": "六",
+    "on": [
+      "ロク"
+    ],
+    "kun": [],
+    "hanViet": "LỤC",
+    "meaningVi": "Số sáu むっ.つ",
+    "radical": "六",
+    "strokes": 6,
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Cái nón có hai chân chống — số sáu.",
+    "examples": [
+      {
+        "word": "六匹",
+        "reading": "ろっぴき",
+        "meaning": "6 con vật"
+      },
+      {
+        "word": "六か月",
+        "reading": "ろっかげつ",
+        "meaning": "6 tháng"
+      },
+      {
+        "word": "六回",
+        "reading": "ろっかい",
+        "meaning": "6 lần"
+      },
+      {
+        "word": "六杯",
+        "reading": "ろっぱい",
+        "meaning": "6 ly"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_17",
+    "kanji": "七",
+    "on": [
+      "シチ"
+    ],
+    "kun": [
+      "なな"
+    ],
+    "hanViet": "THẤT",
+    "meaningVi": "Số bảy なな.つ",
+    "radical": "七",
+    "strokes": 2,
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Nét ngang cắt qua một nét cong — giống số 7 lật ngược.",
+    "examples": [
+      {
+        "word": "七",
+        "reading": "なな",
+        "meaning": "Số bảy なな.つ"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_18",
+    "kanji": "八",
+    "on": [
+      "ハチ"
+    ],
+    "kun": [],
+    "hanViet": "BÁT",
+    "meaningVi": "Số tám やっ.つ",
+    "radical": "八",
+    "strokes": 8,
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Hai nét tách ra hai bên — số tám.",
+    "examples": [
+      {
+        "word": "八匹",
+        "reading": "はっぴき",
+        "meaning": "8 con vật"
+      },
+      {
+        "word": "八か月",
+        "reading": "はっかげつ",
+        "meaning": "8 tháng"
+      },
+      {
+        "word": "八回",
+        "reading": "はっかい",
+        "meaning": "8 lần"
+      },
+      {
+        "word": "八杯",
+        "reading": "はっぱい",
+        "meaning": "8 ly"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_19",
+    "kanji": "九",
+    "on": [
+      "キュウ",
+      "ク"
+    ],
+    "kun": [],
+    "hanViet": "CỬU",
+    "meaningVi": "Số chín ここの.つ",
+    "radical": "九",
+    "strokes": 2,
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Cái móc quặp lại, gần trọn một vòng mười — số chín.",
+    "examples": [
+      {
+        "word": "九",
+        "reading": "キュウ",
+        "meaning": "Số chín ここの.つ"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_20",
+    "kanji": "十",
+    "on": [
+      "ジュウ"
+    ],
+    "kun": [
+      "とお"
+    ],
+    "hanViet": "THẬP",
+    "meaningVi": "Số mười",
+    "radical": "十",
+    "strokes": 10,
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Hai nét cắt nhau thành dấu cộng — số mười.",
+    "examples": [
+      {
+        "word": "十か月",
+        "reading": "じゅっかげつ",
+        "meaning": "10 tháng"
+      },
+      {
+        "word": "十回",
+        "reading": "じゅっかい",
+        "meaning": "10 lần"
+      },
+      {
+        "word": "十冊",
+        "reading": "じゅっさつ",
+        "meaning": "10 quyển"
+      },
+      {
+        "word": "十杯",
+        "reading": "じゅっぱい",
+        "meaning": "10 ly"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_21",
+    "kanji": "百",
+    "on": [
+      "ヒャク"
+    ],
+    "kun": [],
+    "hanViet": "BÁCH",
+    "meaningVi": "Một trăm",
+    "radical": "百",
+    "strokes": 6,
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Một (一) đặt trên trăm (白) — một trăm.",
+    "examples": [
+      {
+        "word": "百",
+        "reading": "ヒャク",
+        "meaning": "Một trăm"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_22",
+    "kanji": "千",
+    "on": [
+      "セン"
+    ],
+    "kun": [
+      "ち"
+    ],
+    "hanViet": "THIÊN",
+    "meaningVi": "Một nghìn",
+    "radical": "千",
+    "strokes": 12,
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Nét phẩy đặt trên chữ mười (十) — nghìn.",
+    "examples": [
+      {
+        "word": "千",
+        "reading": "ち",
+        "meaning": "Một nghìn"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_23",
+    "kanji": "万",
+    "on": [
+      "マン",
+      "バン"
+    ],
+    "kun": [],
+    "hanViet": "VẠN",
+    "meaningVi": "Mười nghìn",
+    "radical": "万",
+    "strokes": 13,
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Một nét ngang, một nét gấp dài — muôn vàn.",
+    "examples": [
+      {
+        "word": "万",
+        "reading": "マン",
+        "meaning": "Mười nghìn"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_24",
+    "kanji": "円",
+    "on": [
+      "エン"
+    ],
+    "kun": [],
+    "hanViet": "VIÊN",
+    "meaningVi": "Hình tròn, đồng Yên まる.い",
+    "radical": "円",
+    "strokes": 14,
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Khung tròn của đồng tiền Yên.",
+    "examples": [
+      {
+        "word": "１００円ショップ",
+        "reading": "１００えんショップ",
+        "meaning": "Cửa hàng 100 yên"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_25",
+    "kanji": "月",
+    "on": [
+      "ゲツ",
+      "ガツ"
+    ],
+    "kun": [
+      "つき"
+    ],
+    "hanViet": "NGUYỆT",
+    "meaningVi": "Mặt trăng, tháng, thứ Hai",
+    "radical": "月",
+    "strokes": 4,
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Vành trăng khuyết, hai vạch bên trong là ánh sáng.",
+    "examples": [
+      {
+        "word": "先月",
+        "reading": "せんげつ",
+        "meaning": "Tháng trước"
+      },
+      {
+        "word": "今月",
+        "reading": "こんげつ",
+        "meaning": "Tháng này"
+      },
+      {
+        "word": "来月",
+        "reading": "らいげつ",
+        "meaning": "Tháng sau"
+      },
+      {
+        "word": "～か月",
+        "reading": "かげつ",
+        "meaning": "～ tháng"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_26",
+    "kanji": "火",
+    "on": [
+      "カ"
+    ],
+    "kun": [
+      "ひ",
+      "び",
+      "ほ"
+    ],
+    "hanViet": "HỎA",
+    "meaningVi": "Lửa, thứ Ba",
+    "radical": "火",
+    "strokes": 4,
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Người dang tay giữa hai đốm lửa bắn ra.",
+    "examples": [
+      {
+        "word": "火",
+        "reading": "ひ",
+        "meaning": "Lửa, thứ Ba"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_27",
+    "kanji": "水",
+    "on": [
+      "スイ"
+    ],
+    "kun": [
+      "みず"
+    ],
+    "hanViet": "THỦY",
+    "meaningVi": "Nước, thứ Tư",
+    "radical": "水",
+    "strokes": 3,
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Dòng nước chảy giữa, hai bên là bọt bắn ra.",
+    "examples": [
+      {
+        "word": "水",
+        "reading": "みず",
+        "meaning": "Nước, thứ Tư"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_28",
+    "kanji": "木",
+    "on": [
+      "モク",
+      "ボク"
+    ],
+    "kun": [
+      "き",
+      "こ"
+    ],
+    "hanViet": "MỘC",
+    "meaningVi": "Cây, thứ Năm",
+    "radical": "木",
+    "strokes": 4,
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Thân cây có cành vươn ngang và rễ toả xuống.",
+    "examples": [
+      {
+        "word": "木",
+        "reading": "き",
+        "meaning": "Cây / gỗ"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_29",
+    "kanji": "金",
+    "on": [
+      "キン",
+      "コン"
+    ],
+    "kun": [
+      "かね",
+      "かな"
+    ],
+    "hanViet": "KIM",
+    "meaningVi": "Tiền, vàng, thứ Sáu",
+    "radical": "金",
+    "strokes": 8,
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Mái nhà che kho báu, hai chấm là hai thỏi vàng.",
+    "examples": [
+      {
+        "word": "（お）金",
+        "reading": "おかね",
+        "meaning": "Tiền"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_30",
+    "kanji": "土",
+    "on": [
+      "ド",
+      "ト"
+    ],
+    "kun": [
+      "つち"
+    ],
+    "hanViet": "THỔ",
+    "meaningVi": "Đất, thứ Bảy",
+    "radical": "土",
+    "strokes": 3,
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Mầm cây (十) nhô lên khỏi mặt đất (一).",
+    "examples": [
+      {
+        "word": "（お）土産",
+        "reading": "おみやげ",
+        "meaning": "Quà (lưu niệm)"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_31",
+    "kanji": "何",
+    "on": [
+      "カ"
+    ],
+    "kun": [
+      "なに",
+      "なん"
+    ],
+    "hanViet": "HÀ",
+    "meaningVi": "Cái gì",
+    "radical": "何",
+    "strokes": 7,
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Người (亻) hỏi xem có thể (可) không — cái gì vậy?",
+    "examples": [
+      {
+        "word": "何人",
+        "reading": "なんにん",
+        "meaning": "Mấy người"
+      },
+      {
+        "word": "何匹",
+        "reading": "なんひき",
+        "meaning": "Mấy con vật"
+      },
+      {
+        "word": "何か",
+        "reading": "なにか",
+        "meaning": "Cái gì đó"
+      },
+      {
+        "word": "何か月",
+        "reading": "なんかげつ",
+        "meaning": "Mấy tháng"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_32",
+    "kanji": "年",
+    "on": [
+      "ネン"
+    ],
+    "kun": [
+      "とし"
+    ],
+    "hanViet": "NIÊN",
+    "meaningVi": "Năm",
+    "radical": "年",
+    "strokes": 8,
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Bó lúa gánh trên vai — mỗi vụ gặt là một năm.",
+    "examples": [
+      {
+        "word": "一年中",
+        "reading": "いちねんじゅう",
+        "meaning": "Suốt 1 năm"
+      },
+      {
+        "word": "去年",
+        "reading": "きょねん",
+        "meaning": "Năm ngoái"
+      },
+      {
+        "word": "今年",
+        "reading": "ことし",
+        "meaning": "Năm nay"
+      },
+      {
+        "word": "来年",
+        "reading": "らいねん",
+        "meaning": "Sang năm"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_33",
+    "kanji": "時",
+    "on": [
+      "ジ"
+    ],
+    "kun": [
+      "とき"
+    ],
+    "hanViet": "THỜI",
+    "meaningVi": "Thời gian, giờ",
+    "radical": "時",
+    "strokes": 9,
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Mặt trời (日) trên nóc chùa (寺) — nhìn bóng nắng mà biết giờ.",
+    "examples": [
+      {
+        "word": "～時間",
+        "reading": "～じかん",
+        "meaning": "~ tiếng"
+      },
+      {
+        "word": "～時間半",
+        "reading": "～じかんはん",
+        "meaning": "~ tiếng rưỡi"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_34",
+    "kanji": "間",
+    "on": [
+      "カン",
+      "ケン"
+    ],
+    "kun": [
+      "あいだ",
+      "ま"
+    ],
+    "hanViet": "GIAN",
+    "meaningVi": "Khoảng trống, ở giữa, trong~, gian phòng",
+    "radical": "間",
+    "strokes": 12,
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Nắng (日) lọt qua khe cổng (門) — khoảng trống ở giữa.",
+    "examples": [
+      {
+        "word": "～時間",
+        "reading": "～じかん",
+        "meaning": "~ tiếng"
+      },
+      {
+        "word": "～時間半",
+        "reading": "～じかんはん",
+        "meaning": "~ tiếng rưỡi"
+      },
+      {
+        "word": "間",
+        "reading": "あいだ",
+        "meaning": "Giữa"
+      },
+      {
+        "word": "～週間",
+        "reading": "しゅうかん",
+        "meaning": "～ tuần"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_35",
+    "kanji": "分",
+    "on": [
+      "ブン",
+      "フン",
+      "ブ"
+    ],
+    "kun": [],
+    "hanViet": "PHÂN",
+    "meaningVi": "Phân chia, hiểu, phút わ.ける わ.かる",
+    "radical": "分",
+    "strokes": 4,
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Lấy dao (刀) cắt (八) ra — chia phần, và một phút là một phần của giờ.",
+    "examples": [
+      {
+        "word": "分",
+        "reading": "ブン",
+        "meaning": "Phân chia, hiểu, phút わ.ける わ.かる"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_36",
+    "kanji": "東",
+    "on": [
+      "トウ"
+    ],
+    "kun": [
+      "ひがし"
+    ],
+    "hanViet": "ĐÔNG",
+    "meaningVi": "Phía Đông",
+    "radical": "東",
+    "strokes": 1,
+    "level": "N4",
+    "topic": "JPD123 - Bài 4: Phương hướng và Địa danh",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Mặt trời (日) mắc trên thân cây (木) — hướng đông lúc bình minh.",
+    "examples": [
+      {
+        "word": "東",
+        "reading": "ひがし",
+        "meaning": "Phía đông ĐÔNG"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_37",
+    "kanji": "京",
+    "on": [
+      "キョウ",
+      "ケイ"
+    ],
+    "kun": [
+      "みやこ"
+    ],
+    "hanViet": "KINH",
+    "meaningVi": "Kinh đô, thủ đô",
+    "radical": "京",
+    "strokes": 8,
+    "level": "N4",
+    "topic": "JPD123 - Bài 4: Phương hướng và Địa danh",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Toà lầu cao trên gò — kinh đô.",
+    "examples": [
+      {
+        "word": "京",
+        "reading": "みやこ",
+        "meaning": "Kinh đô, thủ đô"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_38",
+    "kanji": "名",
+    "on": [
+      "メイ",
+      "ミョウ"
+    ],
+    "kun": [
+      "な"
+    ],
+    "hanViet": "DANH",
+    "meaningVi": "Tên gọi",
+    "radical": "名",
+    "strokes": 6,
+    "level": "N4",
+    "topic": "JPD123 - Bài 4: Phương hướng và Địa danh",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Trời tối (夕) không nhìn rõ mặt, phải mở miệng (口) xưng tên.",
+    "examples": [
+      {
+        "word": "有名",
+        "reading": "ゆうめい",
+        "meaning": "Nổi tiếng"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_39",
+    "kanji": "前",
+    "on": [
+      "ゼン"
+    ],
+    "kun": [
+      "まえ"
+    ],
+    "hanViet": "TIỀN",
+    "meaningVi": "Phía trước",
+    "radical": "前",
+    "strokes": 4,
+    "level": "N4",
+    "topic": "JPD123 - Bài 4: Phương hướng và Địa danh",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Dao (刀) đưa về phía trước để xẻ miếng thịt (月).",
+    "examples": [
+      {
+        "word": "前",
+        "reading": "まえ",
+        "meaning": "Trước"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_40",
+    "kanji": "国",
+    "on": [
+      "コク"
+    ],
+    "kun": [
+      "くに"
+    ],
+    "hanViet": "QUỐC",
+    "meaningVi": "Quốc gia",
+    "radical": "国",
+    "strokes": 5,
+    "level": "N4",
+    "topic": "JPD123 - Bài 4: Phương hướng và Địa danh",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Viên ngọc (玉) được vây kín trong biên giới (囗) — một quốc gia.",
+    "examples": [
+      {
+        "word": "外国人登録証",
+        "reading": "がいこくじんとうろくしょう",
+        "meaning": "Chứng nhận đăng ký người nước ngoài"
+      },
+      {
+        "word": "外国",
+        "reading": "がいこく",
+        "meaning": "Nước ngoài NGOẠI QUỐC"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_41",
+    "kanji": "南",
+    "on": [
+      "ナン"
+    ],
+    "kun": [
+      "みなみ"
+    ],
+    "hanViet": "NAM",
+    "meaningVi": "Phía Nam",
+    "radical": "南",
+    "strokes": 6,
+    "level": "N4",
+    "topic": "JPD123 - Bài 4: Phương hướng và Địa danh",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Nhà kính quay về hướng nam, cây cỏ bên trong tốt tươi.",
+    "examples": [
+      {
+        "word": "南",
+        "reading": "みなみ",
+        "meaning": "Phía nam NAM"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_42",
+    "kanji": "女",
+    "on": [
+      "ジョ",
+      "ニョ"
+    ],
+    "kun": [
+      "おんな"
+    ],
+    "hanViet": "NỮ",
+    "meaningVi": "Phụ nữ",
+    "radical": "女",
+    "strokes": 3,
+    "level": "N4",
+    "topic": "JPD123 - Bài 4: Phương hướng và Địa danh",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Người phụ nữ ngồi khoanh tay, dáng mềm.",
+    "examples": [
+      {
+        "word": "女",
+        "reading": "おんな",
+        "meaning": "Phụ nữ"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_43",
+    "kanji": "男",
+    "on": [
+      "ダン",
+      "ナン"
+    ],
+    "kun": [
+      "おとこ"
+    ],
+    "hanViet": "NAM",
+    "meaningVi": "Nam giới",
+    "radical": "男",
+    "strokes": 7,
+    "level": "N4",
+    "topic": "JPD123 - Bài 4: Phương hướng và Địa danh",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Người đổ sức (力) ra ruộng (田) — đàn ông.",
+    "examples": [
+      {
+        "word": "男",
+        "reading": "おとこ",
+        "meaning": "Nam giới"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_44",
+    "kanji": "区",
+    "on": [
+      "ク"
+    ],
+    "kun": [],
+    "hanViet": "KHU",
+    "meaningVi": "Khu vực",
+    "radical": "区",
+    "strokes": 4,
+    "level": "N4",
+    "topic": "JPD123 - Bài 4: Phương hướng và Địa danh",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Vạch chéo chia ô trong hộp — chia thành khu vực.",
+    "examples": [
+      {
+        "word": "区",
+        "reading": "ク",
+        "meaning": "Khu vực"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_45",
+    "kanji": "市",
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "いち"
+    ],
+    "hanViet": "THỊ",
+    "meaningVi": "Thành phố / chợ",
+    "radical": "市",
+    "strokes": 10,
+    "level": "N4",
+    "topic": "JPD123 - Bài 4: Phương hướng và Địa danh",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Tấm vải (巾) treo làm hiệu ở phiên chợ.",
+    "examples": [
+      {
+        "word": "市",
+        "reading": "いち",
+        "meaning": "Thành phố / chợ"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_46",
+    "kanji": "先",
+    "on": [
+      "セン"
+    ],
+    "kun": [
+      "さき"
+    ],
+    "hanViet": "TIÊN",
+    "meaningVi": "Trước, đầu tiên",
+    "radical": "先",
+    "strokes": 1,
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Bàn chân bước lên trước mọi người.",
+    "examples": [
+      {
+        "word": "先週",
+        "reading": "せんしゅう",
+        "meaning": "Tuần trước"
+      },
+      {
+        "word": "先月",
+        "reading": "せんげつ",
+        "meaning": "Tháng trước"
+      },
+      {
+        "word": "先輩",
+        "reading": "せんぱい",
+        "meaning": "Tiền bối, đàn anh đàn chị"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_47",
+    "kanji": "週",
+    "on": [
+      "シュウ"
+    ],
+    "kun": [],
+    "hanViet": "CHU",
+    "meaningVi": "Tuần lễ",
+    "radical": "週",
+    "strokes": 11,
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Đi (辶) hết một vòng (周) là trọn một tuần.",
+    "examples": [
+      {
+        "word": "先週",
+        "reading": "せんしゅう",
+        "meaning": "Tuần trước"
+      },
+      {
+        "word": "週末",
+        "reading": "しゅうまつ",
+        "meaning": "Cuối tuần"
+      },
+      {
+        "word": "今週",
+        "reading": "こんしゅう",
+        "meaning": "Tuần này"
+      },
+      {
+        "word": "来週",
+        "reading": "らいしゅう",
+        "meaning": "Tuần sau"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_48",
+    "kanji": "毎",
+    "on": [
+      "マイ"
+    ],
+    "kun": [
+      "ごと"
+    ],
+    "hanViet": "MỖI",
+    "meaningVi": "Mỗi, mọi",
+    "radical": "毎",
+    "strokes": 3,
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Người mẹ ngày nào cũng lo — mỗi ngày, mọi ngày.",
+    "examples": [
+      {
+        "word": "毎週",
+        "reading": "まいしゅう",
+        "meaning": "Hàng tuần"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_49",
+    "kanji": "午",
+    "on": [
+      "ゴ"
+    ],
+    "kun": [],
+    "hanViet": "NGỌ",
+    "meaningVi": "Buổi trưa, giờ Ngọ",
+    "radical": "午",
+    "strokes": 4,
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Cây chày giã gạo đứng bóng giữa trưa.",
+    "examples": [
+      {
+        "word": "午",
+        "reading": "ゴ",
+        "meaning": "Buổi trưa, giờ Ngọ"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_50",
+    "kanji": "後",
+    "on": [
+      "ゴ",
+      "コウ"
+    ],
+    "kun": [
+      "あと",
+      "うしろ",
+      "のち"
+    ],
+    "hanViet": "HẬU",
+    "meaningVi": "Phía sau, sau này",
+    "radical": "後",
+    "strokes": 9,
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Chân bước (彳) mà tơ (幺) níu lại, đi chậm (夂) nên tụt về phía sau.",
+    "examples": [
+      {
+        "word": "後ろ",
+        "reading": "うしろ",
+        "meaning": "Sau"
+      },
+      {
+        "word": "後輩",
+        "reading": "こうはい",
+        "meaning": "Hậu bối, người vào sau, đàn em"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_51",
+    "kanji": "見",
+    "on": [
+      "ケン"
+    ],
+    "kun": [
+      "みる",
+      "みえる"
+    ],
+    "hanViet": "KIẾN",
+    "meaningVi": "Nhìn, thấy",
+    "radical": "見",
+    "strokes": 7,
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Con mắt (目) đặt trên đôi chân (儿) — đi mà nhìn.",
+    "examples": [
+      {
+        "word": "見せます［見せる］",
+        "reading": "みせます",
+        "meaning": "Cho xem"
+      },
+      {
+        "word": "見えます［見える］",
+        "reading": "みえます",
+        "meaning": "Nhìn thấy / Nhìn được"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_52",
+    "kanji": "食",
+    "on": [
+      "ショク",
+      "ジキ"
+    ],
+    "kun": [
+      "たべる"
+    ],
+    "hanViet": "THỰC",
+    "meaningVi": "Ăn, thức ăn",
+    "radical": "食",
+    "strokes": 9,
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Mái che trên miệng bát đầy — bữa ăn.",
+    "examples": [
+      {
+        "word": "食事します",
+        "reading": "しょくじします",
+        "meaning": "Dùng bữa"
+      },
+      {
+        "word": "食堂",
+        "reading": "しょくどう",
+        "meaning": "Nhà ăn"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_53",
+    "kanji": "飲",
+    "on": [
+      "イン"
+    ],
+    "kun": [
+      "のむ"
+    ],
+    "hanViet": "ẨM",
+    "meaningVi": "Uống",
+    "radical": "飲",
+    "strokes": 12,
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Há miệng (欠) trước thức ăn (食) — uống.",
+    "examples": [
+      {
+        "word": "飲みます［飲む］",
+        "reading": "のみます",
+        "meaning": "Uống"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_54",
+    "kanji": "買",
+    "on": [
+      "バイ"
+    ],
+    "kun": [
+      "かう"
+    ],
+    "hanViet": "MÃI",
+    "meaningVi": "Mua",
+    "radical": "買",
+    "strokes": 9,
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Quăng lưới (罒) gom tiền vỏ sò (貝) — đi mua.",
+    "examples": [
+      {
+        "word": "買い物します",
+        "reading": "かいものします",
+        "meaning": "Mua sắm"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_55",
+    "kanji": "物",
+    "on": [
+      "ブツ",
+      "モツ"
+    ],
+    "kun": [
+      "もの"
+    ],
+    "hanViet": "VẬT",
+    "meaningVi": "Đồ vật",
+    "radical": "物",
+    "strokes": 8,
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Con bò (牛) là món đồ giá trị nhất của nhà nông.",
+    "examples": [
+      {
+        "word": "買い物します",
+        "reading": "かいものします",
+        "meaning": "Mua sắm"
+      },
+      {
+        "word": "荷物",
+        "reading": "にもつ",
+        "meaning": "Hành lý / Bưu phẩm"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_56",
+    "kanji": "行",
+    "on": [
+      "コウ",
+      "ギョウ"
+    ],
+    "kun": [
+      "いく",
+      "ゆく",
+      "おこなう"
+    ],
+    "hanViet": "HÀNH",
+    "meaningVi": "Đi, thực hiện",
+    "radical": "行",
+    "strokes": 6,
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Ngã tư đường — nơi người ta đi lại.",
+    "examples": [
+      {
+        "word": "飛行機",
+        "reading": "ひこうき",
+        "meaning": "Máy bay"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_57",
+    "kanji": "休",
+    "on": [
+      "キュウ"
+    ],
+    "kun": [
+      "やすむ"
+    ],
+    "hanViet": "HƯU",
+    "meaningVi": "Nghỉ ngơi",
+    "radical": "休",
+    "strokes": 12,
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Người (亻) tựa vào gốc cây (木) — nghỉ.",
+    "examples": [
+      {
+        "word": "休みます［休む］",
+        "reading": "やすみます",
+        "meaning": "Nghỉ"
+      },
+      {
+        "word": "あそこのベンチで休みましょう",
+        "reading": "あそこのベンチでやすみましょう",
+        "meaning": "Cùng nghỉ ở ghế băng kia nào!"
+      },
+      {
+        "word": "休みます［休む］",
+        "reading": "やすみます",
+        "meaning": "Nghỉ"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_58",
+    "kanji": "今",
+    "on": [
+      "コン",
+      "キン"
+    ],
+    "kun": [
+      "いま"
+    ],
+    "hanViet": "KIM",
+    "meaningVi": "Bây giờ, hiện tại",
+    "radical": "今",
+    "strokes": 4,
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Mái che chụp xuống ngay lúc này.",
+    "examples": [
+      {
+        "word": "今日",
+        "reading": "きょう",
+        "meaning": "Hôm nay"
+      },
+      {
+        "word": "今朝",
+        "reading": "けさ",
+        "meaning": "Sáng nay"
+      },
+      {
+        "word": "今度",
+        "reading": "こんど",
+        "meaning": "Lần tới"
+      },
+      {
+        "word": "今晩",
+        "reading": "こんばん",
+        "meaning": "Tối nay"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_59",
+    "kanji": "来",
+    "on": [
+      "ライ"
+    ],
+    "kun": [],
+    "hanViet": "LAI",
+    "meaningVi": "Đến く.る き.たる",
+    "radical": "来",
+    "strokes": 7,
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Bông lúa chín trĩu — mùa gặt đã đến.",
+    "examples": [
+      {
+        "word": "来年",
+        "reading": "らいねん",
+        "meaning": "Sang năm"
+      },
+      {
+        "word": "来週",
+        "reading": "らいしゅう",
+        "meaning": "Tuần sau"
+      },
+      {
+        "word": "来月",
+        "reading": "らいげつ",
+        "meaning": "Tháng sau"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_60",
+    "kanji": "帰",
+    "on": [
+      "キ"
+    ],
+    "kun": [],
+    "hanViet": "QUY",
+    "meaningVi": "Trở về かえ.る",
+    "radical": "帰",
+    "strokes": 10,
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Cất dao, xếp khăn — về nhà.",
+    "examples": [
+      {
+        "word": "持って帰ります［持って帰る］",
+        "reading": "もってかえります",
+        "meaning": "Mang về"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_61",
+    "kanji": "会",
+    "on": [
+      "カイ",
+      "エ"
+    ],
+    "kun": [],
+    "hanViet": "HỘI",
+    "meaningVi": "Gặp gỡ, hội họp あ.う",
+    "radical": "会",
+    "strokes": 6,
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Mái che họp người lại — cuộc gặp.",
+    "examples": [
+      {
+        "word": "教会",
+        "reading": "きょうかい",
+        "meaning": "Nhà thờ"
+      },
+      {
+        "word": "会います",
+        "reading": "あいます",
+        "meaning": "Gặp gỡ"
+      },
+      {
+        "word": "会話",
+        "reading": "かいわ",
+        "meaning": "Hội thoại"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_62",
+    "kanji": "社",
+    "on": [
+      "シャ"
+    ],
+    "kun": [
+      "やしろ"
+    ],
+    "hanViet": "XÃ",
+    "meaningVi": "Xã hội, công ty, đền thờ",
+    "radical": "社",
+    "strokes": 5,
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Bàn thờ (礻) dựng trên đất làng (土) — nơi cả xã tụ họp.",
+    "examples": [
+      {
+        "word": "神社",
+        "reading": "じんじゃ",
+        "meaning": "Đền"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_63",
+    "kanji": "聞",
+    "on": [
+      "ブン",
+      "モン"
+    ],
+    "kun": [],
+    "hanViet": "VĂN",
+    "meaningVi": "Nghe, hỏi き.く き.こえる",
+    "radical": "聞",
+    "strokes": 14,
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Ghé tai (耳) vào khe cổng (門) — nghe ngóng.",
+    "examples": [
+      {
+        "word": "聞こえます［聞こえる］",
+        "reading": "きこえます",
+        "meaning": "Nghe thấy / Nghe được"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_64",
+    "kanji": "読",
+    "on": [
+      "ドク",
+      "トク"
+    ],
+    "kun": [],
+    "hanViet": "ĐỘC",
+    "meaningVi": "Đọc よ.む",
+    "radical": "読",
+    "strokes": 14,
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Nói (訁) thành tiếng những gì trên trang giấy — đọc.",
+    "examples": [
+      {
+        "word": "読",
+        "reading": "ドク",
+        "meaning": "Đọc よ.む"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_65",
+    "kanji": "書",
+    "on": [
+      "ショ"
+    ],
+    "kun": [],
+    "hanViet": "THƯ",
+    "meaningVi": "Viết, sách か.く",
+    "radical": "書",
+    "strokes": 8,
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Cầm bút (聿) ghi lại lời nói (曰) — viết.",
+    "examples": [
+      {
+        "word": "辞書",
+        "reading": "じしょ",
+        "meaning": "Từ điển"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_66",
+    "kanji": "話",
+    "on": [
+      "ワ"
+    ],
+    "kun": [
+      "はなし"
+    ],
+    "hanViet": "THOẠI",
+    "meaningVi": "Trò chuyện, câu chuyện はな.す",
+    "radical": "話",
+    "strokes": 13,
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Lời nói (訁) bật ra từ cái lưỡi (舌) — trò chuyện.",
+    "examples": [
+      {
+        "word": "話します",
+        "reading": "はなします",
+        "meaning": "Nói chuyện"
+      },
+      {
+        "word": "電話します［電話する］",
+        "reading": "でんわします",
+        "meaning": "Gọi điện thoại"
+      },
+      {
+        "word": "電話番号",
+        "reading": "でんわばんごう",
+        "meaning": "Số điện thoại"
+      },
+      {
+        "word": "会話",
+        "reading": "かいわ",
+        "meaning": "Hội thoại"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_67",
+    "kanji": "寺",
+    "on": [
+      "ジ"
+    ],
+    "kun": [
+      "てら"
+    ],
+    "hanViet": "TỰ",
+    "meaningVi": "Chùa",
+    "radical": "寺",
+    "strokes": 6,
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Mảnh đất (土) đo từng tấc (寸) để dựng chùa.",
+    "examples": [
+      {
+        "word": "寺",
+        "reading": "おてら",
+        "meaning": "Chùa"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_68",
+    "kanji": "言",
+    "on": [
+      "ゴン",
+      "ゲン"
+    ],
+    "kun": [
+      "こと"
+    ],
+    "hanViet": "NGÔN",
+    "meaningVi": "Nói, ngôn từ い.う",
+    "radical": "言",
+    "strokes": 7,
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Ba vạch âm thanh bay ra từ miệng (口).",
+    "examples": [
+      {
+        "word": "言います［言う］",
+        "reading": "いいます",
+        "meaning": "Nói"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_69",
+    "kanji": "貝",
+    "on": [
+      "バイ"
+    ],
+    "kun": [
+      "かい"
+    ],
+    "hanViet": "BỐI",
+    "meaningVi": "Vỏ sò, tiền tệ",
+    "radical": "貝",
+    "strokes": 7,
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Vỏ sò có vân — thời xưa dùng làm tiền.",
+    "examples": [
+      {
+        "word": "貝",
+        "reading": "かい",
+        "meaning": "Vỏ sò, tiền tệ"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_70",
+    "kanji": "田",
+    "on": [
+      "デン"
+    ],
+    "kun": [
+      "た"
+    ],
+    "hanViet": "ĐIỀN",
+    "meaningVi": "Ruộng",
+    "radical": "田",
+    "strokes": 5,
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Thửa ruộng chia ô bằng bờ dọc bờ ngang.",
+    "examples": [
+      {
+        "word": "田",
+        "reading": "た",
+        "meaning": "Ruộng"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_71",
+    "kanji": "力",
+    "on": [
+      "リョク",
+      "リキ"
+    ],
+    "kun": [
+      "ちから"
+    ],
+    "hanViet": "LỰC",
+    "meaningVi": "Sức lực",
+    "radical": "力",
+    "strokes": 2,
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Cánh tay gồng lên nổi bắp — sức lực.",
+    "examples": [
+      {
+        "word": "力",
+        "reading": "ちから",
+        "meaning": "Sức lực"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_72",
+    "kanji": "門",
+    "on": [
+      "モン"
+    ],
+    "kun": [
+      "かど"
+    ],
+    "hanViet": "MÔN",
+    "meaningVi": "Cửa, cổng",
+    "radical": "門",
+    "strokes": 8,
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Hai cánh cửa mở đối nhau.",
+    "examples": [
+      {
+        "word": "門",
+        "reading": "かど",
+        "meaning": "Cửa, cổng"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_73",
+    "kanji": "肉",
+    "on": [
+      "ニク"
+    ],
+    "kun": [],
+    "hanViet": "NHỤC",
+    "meaningVi": "Thịt",
+    "radical": "肉",
+    "strokes": 6,
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Miếng thịt có đường gân bên trong.",
+    "examples": [
+      {
+        "word": "肉",
+        "reading": "ニク",
+        "meaning": "Thịt"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_74",
+    "kanji": "料",
+    "on": [
+      "リョウ"
+    ],
+    "kun": [],
+    "hanViet": "LIỄU",
+    "meaningVi": "Nguyên liệu, tài liệu, phí",
+    "radical": "料",
+    "strokes": 10,
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Lấy đấu (斗) đong gạo (米) — đong nguyên liệu, tính ra tiền phí.",
+    "examples": [
+      {
+        "word": "～料理",
+        "reading": "りょうり",
+        "meaning": "Món ～ (vd: イタリア料理 món Ý)"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_75",
+    "kanji": "理",
+    "on": [
+      "リ"
+    ],
+    "kun": [],
+    "hanViet": "LÝ",
+    "meaningVi": "Lý lẽ, logic, địa lý",
+    "radical": "理",
+    "strokes": 11,
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Mài viên ngọc (王) theo đúng thớ vân — cái lẽ phải theo.",
+    "examples": [
+      {
+        "word": "～料理",
+        "reading": "りょうり",
+        "meaning": "Món ～ (vd: イタリア料理 món Ý)"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_76",
+    "kanji": "野",
+    "on": [
+      "ヤ"
+    ],
+    "kun": [
+      "の"
+    ],
+    "hanViet": "DÃ",
+    "meaningVi": "Cánh đồng, hoang dã",
+    "radical": "野",
+    "strokes": 11,
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Ngoài rìa làng (里) là cánh đồng hoang.",
+    "examples": [
+      {
+        "word": "野",
+        "reading": "の",
+        "meaning": "Cánh đồng, hoang dã"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_77",
+    "kanji": "半",
+    "on": [
+      "ハン"
+    ],
+    "kun": [],
+    "hanViet": "BÁN",
+    "meaningVi": "Một nửa なか.ば",
+    "radical": "半",
+    "strokes": 5,
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Xẻ (八) con bò (牛) làm đôi — một nửa.",
+    "examples": [
+      {
+        "word": "～時間半",
+        "reading": "～じかんはん",
+        "meaning": "~ tiếng rưỡi"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_78",
+    "kanji": "家",
+    "on": [
+      "カ"
+    ],
+    "kun": [
+      "いえ",
+      "うち"
+    ],
+    "hanViet": "GIA",
+    "meaningVi": "Nhà, nhà cửa",
+    "radical": "家",
+    "strokes": 10,
+    "level": "N3",
+    "topic": "JPD133 - Bài 8: Gia đình và Miêu tả tính chất",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Dưới mái nhà (宀) có nuôi lợn (豕) — một gia đình.",
+    "examples": [
+      {
+        "word": "家",
+        "reading": "いえ",
+        "meaning": "Nhà"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_79",
+    "kanji": "族",
+    "on": [
+      "ゾク"
+    ],
+    "kun": [],
+    "hanViet": "TỘC",
+    "meaningVi": "Gia đình, dòng họ",
+    "radical": "族",
+    "strokes": 11,
+    "level": "N3",
+    "topic": "JPD133 - Bài 8: Gia đình và Miêu tả tính chất",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Cả họ tụ dưới lá cờ (方), tên (矢) đeo bên mình.",
+    "examples": [
+      {
+        "word": "族",
+        "reading": "ゾク",
+        "meaning": "Gia đình, dòng họ"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_80",
+    "kanji": "父",
+    "on": [
+      "フ"
+    ],
+    "kun": [
+      "ちち"
+    ],
+    "hanViet": "PHỤ",
+    "meaningVi": "Bố",
+    "radical": "父",
+    "strokes": 4,
+    "level": "N3",
+    "topic": "JPD133 - Bài 8: Gia đình và Miêu tả tính chất",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Hai bàn tay cầm rìu — người cha đi làm.",
+    "examples": [
+      {
+        "word": "父",
+        "reading": "ちち",
+        "meaning": "Bố (của mình)"
+      },
+      {
+        "word": "お父さん",
+        "reading": "おとうさん",
+        "meaning": "Bố (của người khác)"
+      },
+      {
+        "word": "祖父",
+        "reading": "そふ",
+        "meaning": "Ông"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_81",
+    "kanji": "母",
+    "on": [
+      "ボ"
+    ],
+    "kun": [
+      "はは"
+    ],
+    "hanViet": "MẪU",
+    "meaningVi": "Mẹ",
+    "radical": "母",
+    "strokes": 5,
+    "level": "N3",
+    "topic": "JPD133 - Bài 8: Gia đình và Miêu tả tính chất",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Người phụ nữ có hai chấm — bầu sữa mẹ.",
+    "examples": [
+      {
+        "word": "母",
+        "reading": "はは",
+        "meaning": "Mẹ (của mình)"
+      },
+      {
+        "word": "お母さん",
+        "reading": "おかあさん",
+        "meaning": "Mẹ (của người khác)"
+      },
+      {
+        "word": "祖母",
+        "reading": "そぼ",
+        "meaning": "Bà (của mình)"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_82",
+    "kanji": "兄",
+    "on": [
+      "ケイ",
+      "キョウ"
+    ],
+    "kun": [
+      "あに"
+    ],
+    "hanViet": "HUYNH",
+    "meaningVi": "Anh trai",
+    "radical": "兄",
+    "strokes": 5,
+    "level": "N3",
+    "topic": "JPD133 - Bài 8: Gia đình và Miêu tả tính chất",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Người (儿) mở miệng (口) dặn dò — người anh.",
+    "examples": [
+      {
+        "word": "兄弟",
+        "reading": "きょうだい",
+        "meaning": "Anh chị"
+      },
+      {
+        "word": "兄",
+        "reading": "あに",
+        "meaning": "Anh trai (của mình)"
+      },
+      {
+        "word": "お兄さん",
+        "reading": "おにいさん",
+        "meaning": "Anh trai (của người khác)"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_83",
+    "kanji": "弟",
+    "on": [
+      "テイ",
+      "ダイ"
+    ],
+    "kun": [
+      "おとうと"
+    ],
+    "hanViet": "ĐỆ",
+    "meaningVi": "Em trai",
+    "radical": "弟",
+    "strokes": 7,
+    "level": "N3",
+    "topic": "JPD133 - Bài 8: Gia đình và Miêu tả tính chất",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Dây quấn quanh cọc theo thứ tự — em đứng sau anh.",
+    "examples": [
+      {
+        "word": "兄弟",
+        "reading": "きょうだい",
+        "meaning": "Anh chị"
+      },
+      {
+        "word": "弟",
+        "reading": "おとうと",
+        "meaning": "Em trai (của mình)"
+      },
+      {
+        "word": "弟さん",
+        "reading": "おとうとさん",
+        "meaning": "Em trai (của người khác)"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_84",
+    "kanji": "姉",
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "あね"
+    ],
+    "hanViet": "TỶ",
+    "meaningVi": "Chị gái",
+    "radical": "姉",
+    "strokes": 8,
+    "level": "N3",
+    "topic": "JPD133 - Bài 8: Gia đình và Miêu tả tính chất",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Người phụ nữ (女) đi chợ (市) thay mẹ — chị gái.",
+    "examples": [
+      {
+        "word": "姉",
+        "reading": "あね",
+        "meaning": "Chị gái (của mình)"
+      },
+      {
+        "word": "お姉さん",
+        "reading": "おねえさん",
+        "meaning": "Chị gái (của người khác)"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_85",
+    "kanji": "妹",
+    "on": [
+      "マイ"
+    ],
+    "kun": [
+      "いもうと"
+    ],
+    "hanViet": "MUỘI",
+    "meaningVi": "Em gái",
+    "radical": "妹",
+    "strokes": 8,
+    "level": "N3",
+    "topic": "JPD133 - Bài 8: Gia đình và Miêu tả tính chất",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Con gái (女) còn chưa lớn (未) — em gái.",
+    "examples": [
+      {
+        "word": "妹",
+        "reading": "いもうと",
+        "meaning": "Em gái (của mình)"
+      },
+      {
+        "word": "妹さん",
+        "reading": "いもうとさん",
+        "meaning": "Em gái (của người khác)"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_86",
+    "kanji": "犬",
+    "on": [
+      "ケン"
+    ],
+    "kun": [
+      "いぬ"
+    ],
+    "hanViet": "KHUYỂN",
+    "meaningVi": "Con chó",
+    "radical": "犬",
+    "strokes": 4,
+    "level": "N3",
+    "topic": "JPD133 - Bài 8: Gia đình và Miêu tả tính chất",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Chữ to (大) thêm một chấm — con chó vểnh tai.",
+    "examples": [
+      {
+        "word": "犬",
+        "reading": "いぬ",
+        "meaning": "Con chó"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_87",
+    "kanji": "高",
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "たかい"
+    ],
+    "hanViet": "CAO",
+    "meaningVi": "Cao, đắt",
+    "radical": "高",
+    "strokes": 10,
+    "level": "N3",
+    "topic": "JPD133 - Bài 8: Gia đình và Miêu tả tính chất",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Toà lầu chồng tầng — cao.",
+    "examples": [
+      {
+        "word": "高い",
+        "reading": "たかい",
+        "meaning": "Cao, đắt"
+      },
+      {
+        "word": "高い",
+        "reading": "たかい",
+        "meaning": "Cao, đắt"
+      },
+      {
+        "word": "高校生",
+        "reading": "こうこうせい",
+        "meaning": "Học sinh cấp ba"
+      },
+      {
+        "word": "背が高い",
+        "reading": "せがたかい",
+        "meaning": "Cao (dáng người)"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_88",
+    "kanji": "長",
+    "on": [
+      "チョウ"
+    ],
+    "kun": [
+      "ながい"
+    ],
+    "hanViet": "TRƯỜNG",
+    "meaningVi": "Dài",
+    "radical": "長",
+    "strokes": 8,
+    "level": "N3",
+    "topic": "JPD133 - Bài 8: Gia đình và Miêu tả tính chất",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Người già tóc dài buông — dài, và là người đứng đầu.",
+    "examples": [
+      {
+        "word": "長い",
+        "reading": "ながい",
+        "meaning": "Dài"
+      },
+      {
+        "word": "店長",
+        "reading": "てんちょう",
+        "meaning": "Chủ cửa hàng"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_89",
+    "kanji": "短",
+    "on": [
+      "タン"
+    ],
+    "kun": [
+      "みじかい"
+    ],
+    "hanViet": "ĐOẢN",
+    "meaningVi": "Ngắn",
+    "radical": "短",
+    "strokes": 12,
+    "level": "N3",
+    "topic": "JPD133 - Bài 8: Gia đình và Miêu tả tính chất",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Lấy mũi tên (矢) so với hạt đậu (豆) — đo cái ngắn.",
+    "examples": [
+      {
+        "word": "短い",
+        "reading": "みじかい",
+        "meaning": "Ngắn"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_90",
+    "kanji": "好",
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "すき",
+      "このむ"
+    ],
+    "hanViet": "HẢO",
+    "meaningVi": "Thích, tốt",
+    "radical": "好",
+    "strokes": 6,
+    "level": "N3",
+    "topic": "JPD133 - Bài 9: Sở thích, Nghệ thuật và Du lịch",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Mẹ (女) ôm con (子) — hình ảnh đẹp nhất, ai cũng thích.",
+    "examples": [
+      {
+        "word": "好き",
+        "reading": "すき",
+        "meaning": "Thích"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_91",
+    "kanji": "歌",
+    "on": [
+      "カ"
+    ],
+    "kun": [
+      "うた",
+      "うたう"
+    ],
+    "hanViet": "CA",
+    "meaningVi": "Bài hát, hát",
+    "radical": "歌",
+    "strokes": 14,
+    "level": "N3",
+    "topic": "JPD133 - Bài 9: Sở thích, Nghệ thuật và Du lịch",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Há miệng (欠) mà ngân nga (哥) — hát.",
+    "examples": [
+      {
+        "word": "歌",
+        "reading": "うた",
+        "meaning": "Bài hát, hát"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_92",
+    "kanji": "音",
+    "on": [
+      "オン",
+      "イン"
+    ],
+    "kun": [
+      "おと",
+      "ね"
+    ],
+    "hanViet": "ÂM",
+    "meaningVi": "Âm thanh",
+    "radical": "音",
+    "strokes": 9,
+    "level": "N3",
+    "topic": "JPD133 - Bài 9: Sở thích, Nghệ thuật và Du lịch",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Đứng (立) mà nói ra thành tiếng — âm thanh.",
+    "examples": [
+      {
+        "word": "音",
+        "reading": "おと",
+        "meaning": "Âm thanh, tiếng động"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_93",
+    "kanji": "楽",
+    "on": [
+      "ガク",
+      "ラク"
+    ],
+    "kun": [
+      "たのしい"
+    ],
+    "hanViet": "LẠC/NHẠC",
+    "meaningVi": "Vui vẻ, âm nhạc",
+    "radical": "楽",
+    "strokes": 13,
+    "level": "N3",
+    "topic": "JPD133 - Bài 9: Sở thích, Nghệ thuật và Du lịch",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Cái trống lắc gắn trên giá gỗ (木) — âm nhạc, và niềm vui.",
+    "examples": [
+      {
+        "word": "楽しい",
+        "reading": "たのしい",
+        "meaning": "Vui vẻ"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_94",
+    "kanji": "車",
+    "on": [
+      "シャ"
+    ],
+    "kun": [
+      "くるま"
+    ],
+    "hanViet": "XA",
+    "meaningVi": "Xe",
+    "radical": "車",
+    "strokes": 5,
+    "level": "N3",
+    "topic": "JPD133 - Bài 9: Sở thích, Nghệ thuật và Du lịch",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Nhìn từ trên xuống: thùng xe với trục và hai bánh.",
+    "examples": [
+      {
+        "word": "車",
+        "reading": "くるま",
+        "meaning": "Ô tô"
+      },
+      {
+        "word": "電車",
+        "reading": "でんしゃ",
+        "meaning": "Tàu điện"
+      },
+      {
+        "word": "観覧車",
+        "reading": "かんらんしゃ",
+        "meaning": "Xe tham quan"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_95",
+    "kanji": "映",
+    "on": [
+      "エイ"
+    ],
+    "kun": [
+      "うつる",
+      "うつす"
+    ],
+    "hanViet": "ÁNH",
+    "meaningVi": "Chiếu, phản chiếu",
+    "radical": "映",
+    "strokes": 9,
+    "level": "N3",
+    "topic": "JPD133 - Bài 9: Sở thích, Nghệ thuật và Du lịch",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Nắng (日) rọi vào chính giữa (央) — hình hiện lên.",
+    "examples": [
+      {
+        "word": "映",
+        "reading": "うつる",
+        "meaning": "Chiếu, phản chiếu"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_96",
+    "kanji": "画",
+    "on": [
+      "ガ",
+      "カク"
+    ],
+    "kun": [],
+    "hanViet": "HỌA",
+    "meaningVi": "Hình, tranh",
+    "radical": "画",
+    "strokes": 7,
+    "level": "N3",
+    "topic": "JPD133 - Bài 9: Sở thích, Nghệ thuật và Du lịch",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Khung tranh vẽ những ô ruộng (田) chia đều.",
+    "examples": [
+      {
+        "word": "漫画",
+        "reading": "まんが",
+        "meaning": "Truyện tranh"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_97",
+    "kanji": "旅",
+    "on": [
+      "リョ"
+    ],
+    "kun": [
+      "たび"
+    ],
+    "hanViet": "LỮ",
+    "meaningVi": "Chuyến đi",
+    "radical": "旅",
+    "strokes": 8,
+    "level": "N3",
+    "topic": "JPD133 - Bài 9: Sở thích, Nghệ thuật và Du lịch",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Đoàn người đi dưới lá cờ (方) — chuyến đi xa.",
+    "examples": [
+      {
+        "word": "旅",
+        "reading": "たび",
+        "meaning": "Chuyến đi"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_98",
+    "kanji": "海",
+    "on": [
+      "カイ"
+    ],
+    "kun": [
+      "うみ"
+    ],
+    "hanViet": "HẢI",
+    "meaningVi": "Biển",
+    "radical": "海",
+    "strokes": 9,
+    "level": "N3",
+    "topic": "JPD133 - Bài 9: Sở thích, Nghệ thuật và Du lịch",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Nước (氵) mênh mông không đếm nổi — biển.",
+    "examples": [
+      {
+        "word": "海",
+        "reading": "うみ",
+        "meaning": "Biển"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_99",
+    "kanji": "外",
+    "on": [
+      "ガイ",
+      "ゲ"
+    ],
+    "kun": [
+      "そと",
+      "ほか",
+      "はずす"
+    ],
+    "hanViet": "NGOẠI",
+    "meaningVi": "Bên ngoài, nước ngoài",
+    "radical": "外",
+    "strokes": 5,
+    "level": "N3",
+    "topic": "JPD133 - Bài 9: Sở thích, Nghệ thuật và Du lịch",
+    "mnemonicEmoji": "🍵",
+    "mnemonicNoteVi": "Bói (卜) vào buổi tối (夕) là trái lệ — chuyện bên ngoài.",
+    "examples": [
+      {
+        "word": "外",
+        "reading": "そと",
+        "meaning": "Ngoài"
+      },
+      {
+        "word": "外国人登録証",
+        "reading": "がいこくじんとうろくしょう",
+        "meaning": "Chứng nhận đăng ký người nước ngoài"
+      },
+      {
+        "word": "外国",
+        "reading": "がいこく",
+        "meaning": "Nước ngoài NGOẠI QUỐC"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_100",
+    "kanji": "駅",
+    "on": [
+      "エキ"
+    ],
+    "kun": [],
+    "hanViet": "DỊCH",
+    "meaningVi": "Nhà ga",
+    "radical": "駅",
+    "strokes": 14,
+    "level": "N3",
+    "topic": "JPD133 - Bài 10: Giao thông và Phương hướng",
+    "mnemonicEmoji": "🏮",
+    "mnemonicNoteVi": "Trạm đổi ngựa (馬) cách nhau đúng một quãng — nhà ga.",
+    "examples": [
+      {
+        "word": "駅",
+        "reading": "えき",
+        "meaning": "Nhà ga"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_101",
+    "kanji": "上",
+    "on": [
+      "ジョウ",
+      "ショウ"
+    ],
+    "kun": [
+      "うえ",
+      "あがる",
+      "のぼる"
+    ],
+    "hanViet": "THƯỢNG",
+    "meaningVi": "Trên, lên",
+    "radical": "上",
+    "strokes": 3,
+    "level": "N3",
+    "topic": "JPD133 - Bài 10: Giao thông và Phương hướng",
+    "mnemonicEmoji": "🏮",
+    "mnemonicNoteVi": "Một vạch mốc, nét dựng chỉ lên trên.",
+    "examples": [
+      {
+        "word": "上",
+        "reading": "うえ",
+        "meaning": "Trên"
+      },
+      {
+        "word": "上手（な）",
+        "reading": "じょうず",
+        "meaning": "Giỏi"
+      },
+      {
+        "word": "上手に",
+        "reading": "じょうずに",
+        "meaning": "Thành thạo"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_102",
+    "kanji": "下",
+    "on": [
+      "カ",
+      "ゲ"
+    ],
+    "kun": [
+      "した",
+      "さげる",
+      "おりる"
+    ],
+    "hanViet": "HẠ",
+    "meaningVi": "Dưới, xuống",
+    "radical": "下",
+    "strokes": 3,
+    "level": "N3",
+    "topic": "JPD133 - Bài 10: Giao thông và Phương hướng",
+    "mnemonicEmoji": "🏮",
+    "mnemonicNoteVi": "Một vạch mốc, nét dựng chỉ xuống dưới.",
+    "examples": [
+      {
+        "word": "下",
+        "reading": "した",
+        "meaning": "Dưới"
+      },
+      {
+        "word": "下手（な）",
+        "reading": "へた",
+        "meaning": "Kém"
+      },
+      {
+        "word": "靴下",
+        "reading": "くつした",
+        "meaning": "Đôi tất"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_103",
+    "kanji": "地",
+    "on": [
+      "チ",
+      "ジ"
+    ],
+    "kun": [],
+    "hanViet": "ĐỊA",
+    "meaningVi": "Đất, địa điểm",
+    "radical": "地",
+    "strokes": 4,
+    "level": "N3",
+    "topic": "JPD133 - Bài 10: Giao thông và Phương hướng",
+    "mnemonicEmoji": "🏮",
+    "mnemonicNoteVi": "Đất (土) trải ra tới đâu là địa phận tới đó.",
+    "examples": [
+      {
+        "word": "地",
+        "reading": "チ",
+        "meaning": "Đất, địa điểm"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_104",
+    "kanji": "図",
+    "on": [
+      "ズ",
+      "ト"
+    ],
+    "kun": [
+      "はかる"
+    ],
+    "hanViet": "ĐỒ",
+    "meaningVi": "Hình vẽ, bản đồ",
+    "radical": "図",
+    "strokes": 7,
+    "level": "N3",
+    "topic": "JPD133 - Bài 10: Giao thông và Phương hướng",
+    "mnemonicEmoji": "🏮",
+    "mnemonicNoteVi": "Bản vẽ đóng khung (囗) — tấm bản đồ.",
+    "examples": [
+      {
+        "word": "図",
+        "reading": "はかる",
+        "meaning": "Hình vẽ, bản đồ"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_105",
+    "kanji": "館",
+    "on": [
+      "カン"
+    ],
+    "kun": [
+      "やかた"
+    ],
+    "hanViet": "QUÁN",
+    "meaningVi": "Tòa nhà, quán/viện",
+    "radical": "館",
+    "strokes": 6,
+    "level": "N3",
+    "topic": "JPD133 - Bài 10: Giao thông và Phương hướng",
+    "mnemonicEmoji": "🏮",
+    "mnemonicNoteVi": "Toà nhà (官) có dọn ăn (食) cho khách — quán trọ, hội quán.",
+    "examples": [
+      {
+        "word": "館",
+        "reading": "やかた",
+        "meaning": "Tòa nhà, quán/viện"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_106",
+    "kanji": "右",
+    "on": [
+      "ウ",
+      "ユウ"
+    ],
+    "kun": [
+      "みぎ"
+    ],
+    "hanViet": "HỮU",
+    "meaningVi": "Phải",
+    "radical": "右",
+    "strokes": 5,
+    "level": "N3",
+    "topic": "JPD133 - Bài 10: Giao thông và Phương hướng",
+    "mnemonicEmoji": "🏮",
+    "mnemonicNoteVi": "Bàn tay đưa lên miệng (口) — tay phải, tay và ăn.",
+    "examples": [
+      {
+        "word": "右",
+        "reading": "みぎ",
+        "meaning": "Bên phải"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_107",
+    "kanji": "左",
+    "on": [
+      "サ"
+    ],
+    "kun": [
+      "ひだり"
+    ],
+    "hanViet": "TẢ",
+    "meaningVi": "Trái",
+    "radical": "左",
+    "strokes": 5,
+    "level": "N3",
+    "topic": "JPD133 - Bài 10: Giao thông và Phương hướng",
+    "mnemonicEmoji": "🏮",
+    "mnemonicNoteVi": "Bàn tay cầm thước thợ (工) — tay trái giữ đồ.",
+    "examples": [
+      {
+        "word": "左",
+        "reading": "ひだり",
+        "meaning": "Bên trái"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_108",
+    "kanji": "道",
+    "on": [
+      "ドウ",
+      "トウ"
+    ],
+    "kun": [
+      "みち"
+    ],
+    "hanViet": "ĐẠO",
+    "meaningVi": "Đường",
+    "radical": "道",
+    "strokes": 12,
+    "level": "N3",
+    "topic": "JPD133 - Bài 10: Giao thông và Phương hướng",
+    "mnemonicEmoji": "🏮",
+    "mnemonicNoteVi": "Ngẩng đầu (首) mà bước đi (辶) — con đường.",
+    "examples": [
+      {
+        "word": "道",
+        "reading": "みち",
+        "meaning": "Đường"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_109",
+    "kanji": "起",
+    "on": [
+      "キ"
+    ],
+    "kun": [
+      "おきる",
+      "おこす"
+    ],
+    "hanViet": "KHỞI",
+    "meaningVi": "Thức dậy, khởi động",
+    "radical": "起",
+    "strokes": 1,
+    "level": "N3",
+    "topic": "JPD133 - Bài 11: Sinh hoạt, Học tập và Thời gian",
+    "mnemonicEmoji": "🏮",
+    "mnemonicNoteVi": "KHỞI (Thức dậy, khởi động)",
+    "examples": [
+      {
+        "word": "起",
+        "reading": "おきる",
+        "meaning": "Thức dậy, khởi động"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_110",
+    "kanji": "歩",
+    "on": [
+      "ホ",
+      "ブ"
+    ],
+    "kun": [
+      "あるく",
+      "あゆむ"
+    ],
+    "hanViet": "BỘ",
+    "meaningVi": "Đi bộ, bước",
+    "radical": "歩",
+    "strokes": 1,
+    "level": "N3",
+    "topic": "JPD133 - Bài 11: Sinh hoạt, Học tập và Thời gian",
+    "mnemonicEmoji": "🏮",
+    "mnemonicNoteVi": "BỘ (Đi bộ, bước)",
+    "examples": [
+      {
+        "word": "歩いて",
+        "reading": "あるいて",
+        "meaning": "Đi bộ"
+      },
+      {
+        "word": "歩きます［歩く］",
+        "reading": "あるきます",
+        "meaning": "Đi bộ"
+      },
+      {
+        "word": "散歩します［散歩する］",
+        "reading": "さんぽします",
+        "meaning": "Đi dạo"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_111",
+    "kanji": "始",
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "はじまる",
+      "はじめる"
+    ],
+    "hanViet": "THỦY",
+    "meaningVi": "Bắt đầu",
+    "radical": "始",
+    "strokes": 1,
+    "level": "N3",
+    "topic": "JPD133 - Bài 11: Sinh hoạt, Học tập và Thời gian",
+    "mnemonicEmoji": "🏮",
+    "mnemonicNoteVi": "THỦY (Bắt đầu)",
+    "examples": [
+      {
+        "word": "始めます［始める］",
+        "reading": "はじめます",
+        "meaning": "Bắt đầu"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_112",
+    "kanji": "終",
+    "on": [
+      "シュウ"
+    ],
+    "kun": [
+      "おわる",
+      "おえる"
+    ],
+    "hanViet": "CHUNG",
+    "meaningVi": "Kết thúc",
+    "radical": "終",
+    "strokes": 1,
+    "level": "N3",
+    "topic": "JPD133 - Bài 11: Sinh hoạt, Học tập và Thời gian",
+    "mnemonicEmoji": "🏮",
+    "mnemonicNoteVi": "CHUNG (Kết thúc)",
+    "examples": [
+      {
+        "word": "終わります［終わる］",
+        "reading": "おわります",
+        "meaning": "Kết thúc"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_113",
+    "kanji": "勉",
+    "on": [
+      "ベン"
+    ],
+    "kun": [],
+    "hanViet": "MIỄN",
+    "meaningVi": "Cố gắng học",
+    "radical": "勉",
+    "strokes": 1,
+    "level": "N3",
+    "topic": "JPD133 - Bài 11: Sinh hoạt, Học tập và Thời gian",
+    "mnemonicEmoji": "🏮",
+    "mnemonicNoteVi": "MIỄN (Cố gắng học)",
+    "examples": [
+      {
+        "word": "勉",
+        "reading": "ベン",
+        "meaning": "Cố gắng học"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_114",
+    "kanji": "強",
+    "on": [
+      "キョウ",
+      "ゴウ"
+    ],
+    "kun": [
+      "つよい",
+      "しいる"
+    ],
+    "hanViet": "CƯỜNG",
+    "meaningVi": "Mạnh",
+    "radical": "強",
+    "strokes": 1,
+    "level": "N3",
+    "topic": "JPD133 - Bài 11: Sinh hoạt, Học tập và Thời gian",
+    "mnemonicEmoji": "🏮",
+    "mnemonicNoteVi": "CƯỜNG (Mạnh)",
+    "examples": [
+      {
+        "word": "強",
+        "reading": "つよい",
+        "meaning": "Mạnh"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_115",
+    "kanji": "朝",
+    "on": [
+      "チョウ"
+    ],
+    "kun": [
+      "あさ"
+    ],
+    "hanViet": "TRIỀU",
+    "meaningVi": "Buổi sáng",
+    "radical": "朝",
+    "strokes": 1,
+    "level": "N3",
+    "topic": "JPD133 - Bài 11: Sinh hoạt, Học tập và Thời gian",
+    "mnemonicEmoji": "🏮",
+    "mnemonicNoteVi": "TRIỀU (Buổi sáng)",
+    "examples": [
+      {
+        "word": "今朝",
+        "reading": "けさ",
+        "meaning": "Sáng nay"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_116",
+    "kanji": "昼",
+    "on": [
+      "チュウ"
+    ],
+    "kun": [
+      "ひる"
+    ],
+    "hanViet": "TRÚ",
+    "meaningVi": "Buổi trưa",
+    "radical": "昼",
+    "strokes": 1,
+    "level": "N3",
+    "topic": "JPD133 - Bài 11: Sinh hoạt, Học tập và Thời gian",
+    "mnemonicEmoji": "🏮",
+    "mnemonicNoteVi": "TRÚ (Buổi trưa)",
+    "examples": [
+      {
+        "word": "昼",
+        "reading": "ひる",
+        "meaning": "Buổi trưa"
+      }
+    ]
+  },
+  {
+    "id": "kanji_manabiman_117",
+    "kanji": "夜",
+    "on": [
+      "ヤ"
+    ],
+    "kun": [
+      "よる"
+    ],
+    "hanViet": "DẠ",
+    "meaningVi": "Buổi tối/đêm",
+    "radical": "夜",
+    "strokes": 1,
+    "level": "N3",
+    "topic": "JPD133 - Bài 11: Sinh hoạt, Học tập và Thời gian",
+    "mnemonicEmoji": "🏮",
+    "mnemonicNoteVi": "DẠ (Buổi tối/đêm)",
+    "examples": [
+      {
+        "word": "夜",
+        "reading": "よる",
+        "meaning": "Buổi tối/đêm"
+      }
+    ]
+  }
+]

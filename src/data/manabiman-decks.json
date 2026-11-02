@@ -1,0 +1,26 @@
+[
+  {
+    "id": "deck-jpd113",
+    "title": "Manabiman - JPD113 (Tiếng Nhật 1)",
+    "description": "Từ vựng chuẩn giáo trình JPD113 trên Manabiman: Bài 1.1 đến Bài 3.3",
+    "level": "N5",
+    "isCustom": false,
+    "createdAt": "2026-11-02T09:22:15.850Z"
+  },
+  {
+    "id": "deck-jpd123",
+    "title": "Manabiman - JPD123 (Tiếng Nhật 2)",
+    "description": "Từ vựng chuẩn giáo trình JPD123 trên Manabiman: Bài 4.1 đến Bài 7.3",
+    "level": "N4",
+    "isCustom": false,
+    "createdAt": "2026-11-02T09:22:15.851Z"
+  },
+  {
+    "id": "deck-jpd133",
+    "title": "Manabiman - JPD133 (Tiếng Nhật 3)",
+    "description": "Từ vựng chuẩn giáo trình JPD133 trên Manabiman: Bài 8.1 đến Bài 11.3",
+    "level": "N3",
+    "isCustom": false,
+    "createdAt": "2026-11-02T09:22:15.851Z"
+  }
+]

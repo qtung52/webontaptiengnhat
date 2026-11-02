@@ -1,0 +1,14 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/page": "app/page.js",
+  "/study/page": "app/study/page.js",
+  "/settings/page": "app/settings/page.js",
+  "/study/match/page": "app/study/match/page.js",
+  "/study/quiz/page": "app/study/quiz/page.js",
+  "/study/write/page": "app/study/write/page.js",
+  "/study/typing/page": "app/study/typing/page.js",
+  "/study/flashcard/page": "app/study/flashcard/page.js",
+  "/vocabulary/page": "app/vocabulary/page.js",
+  "/kanji/page": "app/kanji/page.js",
+  "/study/test/page": "app/study/test/page.js"
+}
