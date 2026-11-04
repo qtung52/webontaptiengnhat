@@ -136,13 +136,12 @@ export function compareJapaneseAnswers(
     const variantWithNums = variantNormEn.replace(/ひゃく/g, '100');
     const userWithNums = userNormEn.replace(/ひゃく/g, '100');
 
-    // 4. Nếu bài kiểm tra bắt buộc Katakana chuẩn (từ mượn, Katakana chart)
-    if (strictKatakana) {
-      const userKata = wanakana.toKatakana(userClean);
-      const targetKata = wanakana.toKatakana(variant);
-      if (userKata === targetKata) return true;
-      if (wanakana.toKatakana(userWithWords) === wanakana.toKatakana(variantWithWords)) return true;
-    }
+    // 4. So khớp theo Katakana (Xử lý hoàn hảo từ Katakana đơn, từ hỗn hợp Katakana + Hiragana như スキーをします, けしゴム, ラーメン...)
+    const userKata = wanakana.toKatakana(userClean);
+    const targetKata = wanakana.toKatakana(variant);
+    if (userKata === targetKata) return true;
+    if (wanakana.toKatakana(userWithWords) === wanakana.toKatakana(variantWithWords)) return true;
+    if (wanakana.toKatakana(userWithNums) === wanakana.toKatakana(variantWithNums)) return true;
 
     // 5. Chuẩn hóa cả hai về Hiragana (taberu -> たべる, タベル -> たべる)
     const userHira = wanakana.toHiragana(userClean);
@@ -151,15 +150,20 @@ export function compareJapaneseAnswers(
     if (wanakana.toHiragana(userWithWords) === wanakana.toHiragana(variantWithWords)) return true;
     if (wanakana.toHiragana(userWithNums) === wanakana.toHiragana(variantWithNums)) return true;
 
-    // 6. Chuẩn hóa cả hai về Romaji (để xử lý cách gõ si/shi, tu/tsu, ou/oo/ō, t-shatsu)
+    // 5b. Chuẩn hóa Hiragana sâu qua Katakana (xử lý dấu trường âm ー khi gõ Hiragana: すきーをします -> すきいをします <-> スキーをします)
+    const userDeepHira = wanakana.toHiragana(userKata);
+    const targetDeepHira = wanakana.toHiragana(targetKata);
+    if (userDeepHira === targetDeepHira) return true;
+    if (wanakana.toHiragana(wanakana.toKatakana(userWithWords)) === wanakana.toHiragana(wanakana.toKatakana(variantWithWords))) return true;
+
+    // 6. Chuẩn hóa cả hai về Romaji (để xử lý cách gõ si/shi, tu/tsu, ou/oo/ō, t-shatsu, suki-woshimasu / sukiiwoshimasu)
     if (acceptRomaji || wanakana.isRomaji(userClean)) {
       const cleanRomaji = (str: string) =>
         wanakana
-          .toRomaji(str)
+          .toRomaji(wanakana.toKatakana(str))
           .toLowerCase()
           .replace(/[-ー_]/g, '')
-          .replace(/ou/g, 'oo')
-          .replace(/ō/g, 'oo')
+          .replace(/ou|ō/g, 'oo')
           .replace(/ū/g, 'uu')
           .trim();
 
