@@ -1,0 +1,3112 @@
+[
+  {
+    "word": "私",
+    "reading": "わたし",
+    "romaji": "watashi",
+    "meaning": "Tôi",
+    "level": "N5",
+    "topic": "JPD113 - Bài 1: Giới thiệu bản thân và Trường học",
+    "lessonSlug": "jpd113-l1",
+    "course": "jpd113"
+  },
+  {
+    "word": "人",
+    "reading": "ひと",
+    "romaji": "hito",
+    "meaning": "Người",
+    "level": "N5",
+    "topic": "JPD113 - Bài 1: Giới thiệu bản thân và Trường học",
+    "lessonSlug": "jpd113-l1",
+    "course": "jpd113"
+  },
+  {
+    "word": "あの人",
+    "reading": "あのひと",
+    "romaji": "anohito",
+    "meaning": "Người kia",
+    "level": "N5",
+    "topic": "JPD113 - Bài 1: Giới thiệu bản thân và Trường học",
+    "lessonSlug": "jpd113-l1",
+    "course": "jpd113"
+  },
+  {
+    "word": "2才",
+    "reading": "にさい",
+    "romaji": "nisai",
+    "meaning": "2 tuổi",
+    "level": "N5",
+    "topic": "JPD113 - Bài 1: Giới thiệu bản thân và Trường học",
+    "lessonSlug": "jpd113-l1",
+    "course": "jpd113"
+  },
+  {
+    "word": "8才",
+    "reading": "はっさい",
+    "romaji": "hassai",
+    "meaning": "8 tuổi",
+    "level": "N5",
+    "topic": "JPD113 - Bài 1: Giới thiệu bản thân và Trường học",
+    "lessonSlug": "jpd113-l1",
+    "course": "jpd113"
+  },
+  {
+    "word": "何才",
+    "reading": "なんさい",
+    "romaji": "nansai",
+    "meaning": "Mấy tuổi",
+    "level": "N5",
+    "topic": "JPD113 - Bài 1: Giới thiệu bản thân và Trường học",
+    "lessonSlug": "jpd113-l1",
+    "course": "jpd113"
+  },
+  {
+    "word": "大学",
+    "reading": "だいがく",
+    "romaji": "daigaku",
+    "meaning": "Đại học",
+    "level": "N5",
+    "topic": "JPD113 - Bài 1: Giới thiệu bản thân và Trường học",
+    "lessonSlug": "jpd113-l1",
+    "course": "jpd113"
+  },
+  {
+    "word": "学生",
+    "reading": "がくせい",
+    "romaji": "gakusei",
+    "meaning": "Học sinh / sinh viên",
+    "level": "N5",
+    "topic": "JPD113 - Bài 1: Giới thiệu bản thân và Trường học",
+    "lessonSlug": "jpd113-l1",
+    "course": "jpd113"
+  },
+  {
+    "word": "先生",
+    "reading": "せんせい",
+    "romaji": "sensei",
+    "meaning": "thầy/cô giáo",
+    "level": "N5",
+    "topic": "JPD113 - Bài 1: Giới thiệu bản thân và Trường học",
+    "lessonSlug": "jpd113-l1",
+    "course": "jpd113"
+  },
+  {
+    "word": "学校",
+    "reading": "がっこう",
+    "romaji": "gakkou",
+    "meaning": "Trường học",
+    "level": "N5",
+    "topic": "JPD113 - Bài 1: Giới thiệu bản thân và Trường học",
+    "lessonSlug": "jpd113-l1",
+    "course": "jpd113"
+  },
+  {
+    "word": "10日",
+    "reading": "とおか",
+    "romaji": "tooka",
+    "meaning": "Mùng 10",
+    "level": "N5",
+    "topic": "JPD113 - Bài 1: Giới thiệu bản thân và Trường học",
+    "lessonSlug": "jpd113-l1",
+    "course": "jpd113"
+  },
+  {
+    "word": "日曜日",
+    "reading": "にちようび",
+    "romaji": "nichiyoubi",
+    "meaning": "Chủ nhật",
+    "level": "N5",
+    "topic": "JPD113 - Bài 1: Giới thiệu bản thân và Trường học",
+    "lessonSlug": "jpd113-l1",
+    "course": "jpd113"
+  },
+  {
+    "word": "日",
+    "reading": "ひ",
+    "romaji": "hi",
+    "meaning": "Ngày / mặt trời",
+    "level": "N5",
+    "topic": "JPD113 - Bài 1: Giới thiệu bản thân và Trường học",
+    "lessonSlug": "jpd113-l1",
+    "course": "jpd113"
+  },
+  {
+    "word": "休日",
+    "reading": "きゅうじつ",
+    "romaji": "kyuujitsu",
+    "meaning": "ngày nghỉ",
+    "level": "N5",
+    "topic": "JPD113 - Bài 1: Giới thiệu bản thân và Trường học",
+    "lessonSlug": "jpd113-l1",
+    "course": "jpd113"
+  },
+  {
+    "word": "本",
+    "reading": "ほん",
+    "romaji": "hon",
+    "meaning": "Sách",
+    "level": "N5",
+    "topic": "JPD113 - Bài 1: Giới thiệu bản thân và Trường học",
+    "lessonSlug": "jpd113-l1",
+    "course": "jpd113"
+  },
+  {
+    "word": "日本",
+    "reading": "にほん",
+    "romaji": "nihon",
+    "meaning": "Nhật Bản",
+    "level": "N5",
+    "topic": "JPD113 - Bài 1: Giới thiệu bản thân và Trường học",
+    "lessonSlug": "jpd113-l1",
+    "course": "jpd113"
+  },
+  {
+    "word": "日本人",
+    "reading": "にほんじん",
+    "romaji": "nihonjin",
+    "meaning": "Người Nhật Bản",
+    "level": "N5",
+    "topic": "JPD113 - Bài 1: Giới thiệu bản thân và Trường học",
+    "lessonSlug": "jpd113-l1",
+    "course": "jpd113"
+  },
+  {
+    "word": "日本語",
+    "reading": "にほんご",
+    "romaji": "nihongo",
+    "meaning": "Tiếng Nhật",
+    "level": "N5",
+    "topic": "JPD113 - Bài 1: Giới thiệu bản thân và Trường học",
+    "lessonSlug": "jpd113-l1",
+    "course": "jpd113"
+  },
+  {
+    "word": "ベトナム語",
+    "reading": "ベトナムご",
+    "romaji": "betonamugo",
+    "meaning": "Tiếng Việt",
+    "level": "N5",
+    "topic": "JPD113 - Bài 1: Giới thiệu bản thân và Trường học",
+    "lessonSlug": "jpd113-l1",
+    "course": "jpd113"
+  },
+  {
+    "word": "～人",
+    "reading": "〜じん",
+    "romaji": "jin",
+    "meaning": "người (nước ~)",
+    "level": "N5",
+    "topic": "JPD113 - Bài 1: Giới thiệu bản thân và Trường học",
+    "lessonSlug": "jpd113-l1",
+    "course": "jpd113"
+  },
+  {
+    "word": "一日",
+    "reading": "ついたち",
+    "romaji": "tsuitachi",
+    "meaning": "Ngày mồng 1",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "lessonSlug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "一月",
+    "reading": "いちがつ",
+    "romaji": "ichigatsu",
+    "meaning": "tháng 1",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "lessonSlug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "一人",
+    "reading": "ひとり",
+    "romaji": "hitori",
+    "meaning": "1 người (cách đọc đặc biệt)",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "lessonSlug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "一つ",
+    "reading": "ひとつ",
+    "romaji": "hitotsu",
+    "meaning": "1 chiếc",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "lessonSlug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "一",
+    "reading": "いち",
+    "romaji": "ichi",
+    "meaning": "Số 1",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "lessonSlug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "二日",
+    "reading": "ふつか",
+    "romaji": "futsuka",
+    "meaning": "Ngày mồng 2",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "lessonSlug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "二月",
+    "reading": "にがつ",
+    "romaji": "nigatsu",
+    "meaning": "Tháng 2",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "lessonSlug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "二つ",
+    "reading": "ふたつ",
+    "romaji": "futatsu",
+    "meaning": "2 cái",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "lessonSlug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "二",
+    "reading": "に",
+    "romaji": "ni",
+    "meaning": "Số 2",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "lessonSlug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "三日",
+    "reading": "みっか",
+    "romaji": "mikka",
+    "meaning": "Ngày mồng 3",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "lessonSlug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "三月",
+    "reading": "さんがつ",
+    "romaji": "sangatsu",
+    "meaning": "tháng 3",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "lessonSlug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "三人",
+    "reading": "さんにん",
+    "romaji": "sannin",
+    "meaning": "3 người",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "lessonSlug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "三",
+    "reading": "さん",
+    "romaji": "san",
+    "meaning": "Số 3",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "lessonSlug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "四日",
+    "reading": "よっか",
+    "romaji": "yokka",
+    "meaning": "Ngày mồng 4",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "lessonSlug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "四月",
+    "reading": "しがつ",
+    "romaji": "shigatsu",
+    "meaning": "tháng 4",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "lessonSlug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "四人",
+    "reading": "よにん",
+    "romaji": "yonin",
+    "meaning": "4 người",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "lessonSlug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "四",
+    "reading": "よん",
+    "romaji": "yon",
+    "meaning": "Số 4",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "lessonSlug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "五日",
+    "reading": "いつか",
+    "romaji": "itsuka",
+    "meaning": "Ngày mồng 5",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "lessonSlug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "五月",
+    "reading": "ごがつ",
+    "romaji": "gogatsu",
+    "meaning": "tháng 5",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "lessonSlug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "五つ",
+    "reading": "いつつ",
+    "romaji": "itsutsu",
+    "meaning": "5 cái",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "lessonSlug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "五",
+    "reading": "ご",
+    "romaji": "go",
+    "meaning": "Số 5",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "lessonSlug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "六日",
+    "reading": "むいか",
+    "romaji": "muika",
+    "meaning": "Ngày mồng 6",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "lessonSlug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "六月",
+    "reading": "ろくがつ",
+    "romaji": "rokugatsu",
+    "meaning": "tháng 6",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "lessonSlug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "六つ",
+    "reading": "むっつ",
+    "romaji": "muttsu",
+    "meaning": "6 cái",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "lessonSlug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "六",
+    "reading": "ろく",
+    "romaji": "roku",
+    "meaning": "Số 6",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "lessonSlug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "七日",
+    "reading": "なのか",
+    "romaji": "nanoka",
+    "meaning": "Ngày mồng 7",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "lessonSlug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "七月",
+    "reading": "しちがつ",
+    "romaji": "shichigatsu",
+    "meaning": "tháng 7",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "lessonSlug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "七つ",
+    "reading": "ななつ",
+    "romaji": "nanatsu",
+    "meaning": "7 cái",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "lessonSlug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "七",
+    "reading": "なな/しち",
+    "romaji": "nanashichi",
+    "meaning": "Số 7",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "lessonSlug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "八日",
+    "reading": "ようか",
+    "romaji": "youka",
+    "meaning": "Ngày mồng 8",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "lessonSlug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "八月",
+    "reading": "はちがつ",
+    "romaji": "hachigatsu",
+    "meaning": "Tháng 8",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "lessonSlug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "八つ",
+    "reading": "やっつ",
+    "romaji": "yattsu",
+    "meaning": "8 cái",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "lessonSlug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "八",
+    "reading": "はち",
+    "romaji": "hachi",
+    "meaning": "Số 8",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "lessonSlug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "九日",
+    "reading": "ここのか",
+    "romaji": "kokonoka",
+    "meaning": "Ngày mồng 9",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "lessonSlug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "九月",
+    "reading": "くがつ",
+    "romaji": "kugatsu",
+    "meaning": "tháng 9",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "lessonSlug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "九つ",
+    "reading": "ここのつ",
+    "romaji": "kokonotsu",
+    "meaning": "9 cái",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "lessonSlug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "九",
+    "reading": "きゅう",
+    "romaji": "kyuu",
+    "meaning": "Số 9",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "lessonSlug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "十日",
+    "reading": "とおか",
+    "romaji": "tooka",
+    "meaning": "Ngày mồng 10",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "lessonSlug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "十月",
+    "reading": "じゅうがつ",
+    "romaji": "juugatsu",
+    "meaning": "tháng 10",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "lessonSlug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "十",
+    "reading": "じゅう",
+    "romaji": "juu",
+    "meaning": "Số 10",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "lessonSlug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "二百",
+    "reading": "にひゃく",
+    "romaji": "nihyaku",
+    "meaning": "200",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "lessonSlug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "三百",
+    "reading": "さんびゃく",
+    "romaji": "sanbyaku",
+    "meaning": "300",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "lessonSlug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "六百",
+    "reading": "ろっぴゃく",
+    "romaji": "roppyaku",
+    "meaning": "600",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "lessonSlug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "八百",
+    "reading": "はっぴゃく",
+    "romaji": "happyaku",
+    "meaning": "800",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "lessonSlug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "千",
+    "reading": "せん",
+    "romaji": "sen",
+    "meaning": "1000",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "lessonSlug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "三千",
+    "reading": "さんぜん",
+    "romaji": "sanzen",
+    "meaning": "3000",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "lessonSlug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "八千",
+    "reading": "はっせん",
+    "romaji": "hassen",
+    "meaning": "8000",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "lessonSlug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "一万",
+    "reading": "いちまん",
+    "romaji": "ichiman",
+    "meaning": "10.000",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "lessonSlug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "百円",
+    "reading": "ひゃくえん",
+    "romaji": "hyakuen",
+    "meaning": "100 Yên",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "lessonSlug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "一万円",
+    "reading": "いちまんえん",
+    "romaji": "ichiman'en",
+    "meaning": "10.000 Yên",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "lessonSlug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "月",
+    "reading": "つき",
+    "romaji": "tsuki",
+    "meaning": "mặt trăng",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "lessonSlug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "一月",
+    "reading": "いちがつ",
+    "romaji": "ichigatsu",
+    "meaning": "tháng 1",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "lessonSlug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "十二月",
+    "reading": "じゅうにがつ",
+    "romaji": "juunigatsu",
+    "meaning": "Tháng 12",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "lessonSlug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "月曜日",
+    "reading": "げつようび",
+    "romaji": "getsuyoubi",
+    "meaning": "Thứ 2",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "lessonSlug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "花火",
+    "reading": "はなび",
+    "romaji": "hanabi",
+    "meaning": "pháo hoa",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "lessonSlug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "火",
+    "reading": "ひ",
+    "romaji": "hi",
+    "meaning": "lửa",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "lessonSlug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "火曜日",
+    "reading": "かようび",
+    "romaji": "kayoubi",
+    "meaning": "Thứ 3",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "lessonSlug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "水",
+    "reading": "みず",
+    "romaji": "mizu",
+    "meaning": "nước",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "lessonSlug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "水曜日",
+    "reading": "すいようび",
+    "romaji": "suiyoubi",
+    "meaning": "Thứ 4",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "lessonSlug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "木",
+    "reading": "き",
+    "romaji": "ki",
+    "meaning": "Cây / gỗ",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "lessonSlug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "木曜日",
+    "reading": "もくようび",
+    "romaji": "mokuyoubi",
+    "meaning": "Thứ 5",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "lessonSlug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "お金",
+    "reading": "おかね",
+    "romaji": "okane",
+    "meaning": "tiền",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "lessonSlug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "金曜日",
+    "reading": "きんようび",
+    "romaji": "kin'youbi",
+    "meaning": "Thứ 6",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "lessonSlug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "土",
+    "reading": "つち",
+    "romaji": "tsuchi",
+    "meaning": "Đất",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "lessonSlug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "土曜日",
+    "reading": "どようび",
+    "romaji": "doyoubi",
+    "meaning": "Thứ 7",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "lessonSlug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "何",
+    "reading": "なん/なに",
+    "romaji": "nannani",
+    "meaning": "Cái gì",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "lessonSlug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "何月",
+    "reading": "なんがつ",
+    "romaji": "nangatsu",
+    "meaning": "tháng mấy",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "lessonSlug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "何人",
+    "reading": "なんにん",
+    "romaji": "nannin",
+    "meaning": "Mấy người",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "lessonSlug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "何曜日",
+    "reading": "なんようび",
+    "romaji": "nan'youbi",
+    "meaning": "Thứ mấy",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "lessonSlug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "何年",
+    "reading": "なんねん",
+    "romaji": "nannen",
+    "meaning": "Năm bao nhiêu",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "lessonSlug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "今年",
+    "reading": "ことし",
+    "romaji": "kotoshi",
+    "meaning": "Năm nay",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "lessonSlug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "九時",
+    "reading": "くじ",
+    "romaji": "kuji",
+    "meaning": "9 giờ",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "lessonSlug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "何時",
+    "reading": "なんじ",
+    "romaji": "nanji",
+    "meaning": "Mấy giờ",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "lessonSlug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "時間",
+    "reading": "じかん",
+    "romaji": "jikan",
+    "meaning": "Thời gian",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "lessonSlug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "何時間",
+    "reading": "なんじかん",
+    "romaji": "nanjikan",
+    "meaning": "Mấy tiếng",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "lessonSlug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "分かります",
+    "reading": "わかります",
+    "romaji": "wakarimasu",
+    "meaning": "Hiểu",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "lessonSlug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "半分",
+    "reading": "はんぶん",
+    "romaji": "hanbun",
+    "meaning": "Một nửa",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "lessonSlug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "六分",
+    "reading": "ろっぷん",
+    "romaji": "roppun",
+    "meaning": "6 phút",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "lessonSlug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "東",
+    "reading": "ひがし",
+    "romaji": "higashi",
+    "meaning": "Phía đông ĐÔNG",
+    "level": "N4",
+    "topic": "JPD123 - Bài 4: Phương hướng và Địa danh",
+    "lessonSlug": "jpd123-l4",
+    "course": "jpd123"
+  },
+  {
+    "word": "東京",
+    "reading": "とうきょう",
+    "romaji": "toukyou",
+    "meaning": "Tokyo ĐÔNG KINH",
+    "level": "N4",
+    "topic": "JPD123 - Bài 4: Phương hướng và Địa danh",
+    "lessonSlug": "jpd123-l4",
+    "course": "jpd123"
+  },
+  {
+    "word": "午前",
+    "reading": "ごぜん",
+    "romaji": "gozen",
+    "meaning": "a.m NGỌ TIỀN",
+    "level": "N4",
+    "topic": "JPD123 - Bài 4: Phương hướng và Địa danh",
+    "lessonSlug": "jpd123-l4",
+    "course": "jpd123"
+  },
+  {
+    "word": "前日",
+    "reading": "ぜんじつ",
+    "romaji": "zenjitsu",
+    "meaning": "ngày trước đó TIỀN NHẬT",
+    "level": "N4",
+    "topic": "JPD123 - Bài 4: Phương hướng và Địa danh",
+    "lessonSlug": "jpd123-l4",
+    "course": "jpd123"
+  },
+  {
+    "word": "名前",
+    "reading": "なまえ",
+    "romaji": "namae",
+    "meaning": "tên DANH TIỀN",
+    "level": "N4",
+    "topic": "JPD123 - Bài 4: Phương hướng và Địa danh",
+    "lessonSlug": "jpd123-l4",
+    "course": "jpd123"
+  },
+  {
+    "word": "国",
+    "reading": "くに",
+    "romaji": "kuni",
+    "meaning": "đất nước, quốc gia QUỐC",
+    "level": "N4",
+    "topic": "JPD123 - Bài 4: Phương hướng và Địa danh",
+    "lessonSlug": "jpd123-l4",
+    "course": "jpd123"
+  },
+  {
+    "word": "外国",
+    "reading": "がいこく",
+    "romaji": "gaikoku",
+    "meaning": "Nước ngoài NGOẠI QUỐC",
+    "level": "N4",
+    "topic": "JPD123 - Bài 4: Phương hướng và Địa danh",
+    "lessonSlug": "jpd123-l4",
+    "course": "jpd123"
+  },
+  {
+    "word": "男の人",
+    "reading": "おとこのひと",
+    "romaji": "otokonohito",
+    "meaning": "người đàn ông NAM",
+    "level": "N4",
+    "topic": "JPD123 - Bài 4: Phương hướng và Địa danh",
+    "lessonSlug": "jpd123-l4",
+    "course": "jpd123"
+  },
+  {
+    "word": "女の人",
+    "reading": "おんなのひと",
+    "romaji": "onnanohito",
+    "meaning": "người phụ nữ NỮ",
+    "level": "N4",
+    "topic": "JPD123 - Bài 4: Phương hướng và Địa danh",
+    "lessonSlug": "jpd123-l4",
+    "course": "jpd123"
+  },
+  {
+    "word": "～区",
+    "reading": "〜く",
+    "romaji": "ku",
+    "meaning": "quận ~",
+    "level": "N4",
+    "topic": "JPD123 - Bài 4: Phương hướng và Địa danh",
+    "lessonSlug": "jpd123-l4",
+    "course": "jpd123"
+  },
+  {
+    "word": "～市",
+    "reading": "〜し",
+    "romaji": "shi",
+    "meaning": "Thành phố ~",
+    "level": "N4",
+    "topic": "JPD123 - Bài 4: Phương hướng và Địa danh",
+    "lessonSlug": "jpd123-l4",
+    "course": "jpd123"
+  },
+  {
+    "word": "前",
+    "reading": "まえ",
+    "romaji": "mae",
+    "meaning": "Trước",
+    "level": "N4",
+    "topic": "JPD123 - Bài 4: Phương hướng và Địa danh",
+    "lessonSlug": "jpd123-l4",
+    "course": "jpd123"
+  },
+  {
+    "word": "京都",
+    "reading": "きょうと",
+    "romaji": "kyouto",
+    "meaning": "Kyoto",
+    "level": "N4",
+    "topic": "JPD123 - Bài 4: Phương hướng và Địa danh",
+    "lessonSlug": "jpd123-l4",
+    "course": "jpd123"
+  },
+  {
+    "word": "外国人",
+    "reading": "がいこくじん",
+    "romaji": "gaikokujin",
+    "meaning": "người nước ngoài",
+    "level": "N4",
+    "topic": "JPD123 - Bài 4: Phương hướng và Địa danh",
+    "lessonSlug": "jpd123-l4",
+    "course": "jpd123"
+  },
+  {
+    "word": "男女",
+    "reading": "だんじょ",
+    "romaji": "danjo",
+    "meaning": "nam nữ",
+    "level": "N4",
+    "topic": "JPD123 - Bài 4: Phương hướng và Địa danh",
+    "lessonSlug": "jpd123-l4",
+    "course": "jpd123"
+  },
+  {
+    "word": "先生",
+    "reading": "せんせい",
+    "romaji": "sensei",
+    "meaning": "thầy/cô giáo",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "lessonSlug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "先日",
+    "reading": "せんじつ",
+    "romaji": "senjitsu",
+    "meaning": "vài ngày trước",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "lessonSlug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "先月",
+    "reading": "せんげつ",
+    "romaji": "sengetsu",
+    "meaning": "Tháng trước",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "lessonSlug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "先週",
+    "reading": "せんしゅう",
+    "romaji": "senshuu",
+    "meaning": "Tuần trước",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "lessonSlug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "一週間",
+    "reading": "いっしゅうかん",
+    "romaji": "isshuukan",
+    "meaning": "1 tuần",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "lessonSlug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "毎日",
+    "reading": "まいにち",
+    "romaji": "mainichi",
+    "meaning": "mỗi ngày",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "lessonSlug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "毎週",
+    "reading": "まいしゅう",
+    "romaji": "maishuu",
+    "meaning": "Hàng tuần",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "lessonSlug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "毎年",
+    "reading": "まいとし/まいねん",
+    "romaji": "maitoshimainen",
+    "meaning": "mỗi năm",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "lessonSlug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "毎月",
+    "reading": "まいつき",
+    "romaji": "maitsuki",
+    "meaning": "mỗi tháng",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "lessonSlug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "後ろ",
+    "reading": "うしろ",
+    "romaji": "ushiro",
+    "meaning": "Sau",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "lessonSlug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "後",
+    "reading": "あと",
+    "romaji": "ato",
+    "meaning": "sau đó",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "lessonSlug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "午後",
+    "reading": "ごご",
+    "romaji": "gogo",
+    "meaning": "p.m NGỌ HẬU",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "lessonSlug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "前後",
+    "reading": "ぜんご",
+    "romaji": "zengo",
+    "meaning": "trước sau",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "lessonSlug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "見ます",
+    "reading": "みます",
+    "romaji": "mimasu",
+    "meaning": "nhìn",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "lessonSlug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "見学",
+    "reading": "けんがく",
+    "romaji": "kengaku",
+    "meaning": "tham quan kiến tập",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "lessonSlug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "食べます",
+    "reading": "たべます",
+    "romaji": "tabemasu",
+    "meaning": "ăn",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "lessonSlug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "食事",
+    "reading": "しょくじ",
+    "romaji": "shokuji",
+    "meaning": "ăn, bữa ăn",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "lessonSlug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "飲みます",
+    "reading": "のみます",
+    "romaji": "nomimasu",
+    "meaning": "uống",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "lessonSlug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "飲食",
+    "reading": "いんしょく",
+    "romaji": "inshoku",
+    "meaning": "ẩm thực",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "lessonSlug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "飲み水",
+    "reading": "のみみず",
+    "romaji": "nomimizu",
+    "meaning": "nước uống",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "lessonSlug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "休みます",
+    "reading": "やすみます",
+    "romaji": "yasumimasu",
+    "meaning": "nghỉ",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "lessonSlug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "休みの日",
+    "reading": "やすみのひ",
+    "romaji": "yasuminohi",
+    "meaning": "ngày nghỉ",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "lessonSlug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "休日",
+    "reading": "きゅうじつ",
+    "romaji": "kyuujitsu",
+    "meaning": "ngày nghỉ",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "lessonSlug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "買います",
+    "reading": "かいます",
+    "romaji": "kaimasu",
+    "meaning": "mua",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "lessonSlug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "物",
+    "reading": "もの",
+    "romaji": "mono",
+    "meaning": "đồ vật",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "lessonSlug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "買い物",
+    "reading": "かいもの",
+    "romaji": "kaimono",
+    "meaning": "mua sắm",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "lessonSlug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "食べ物",
+    "reading": "たべもの",
+    "romaji": "tabemono",
+    "meaning": "đồ ăn",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "lessonSlug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "飲み物",
+    "reading": "のみもの",
+    "romaji": "nomimono",
+    "meaning": "đồ uống",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "lessonSlug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "人物",
+    "reading": "じんぶつ",
+    "romaji": "jinbutsu",
+    "meaning": "nhân vật",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "lessonSlug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "見物",
+    "reading": "けんぶつ",
+    "romaji": "kenbutsu",
+    "meaning": "tham quan",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "lessonSlug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "行きます",
+    "reading": "いきます",
+    "romaji": "ikimasu",
+    "meaning": "đi",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "lessonSlug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "今年",
+    "reading": "ことし",
+    "romaji": "kotoshi",
+    "meaning": "Năm nay",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "lessonSlug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "今日",
+    "reading": "きょう",
+    "romaji": "kyou",
+    "meaning": "Hôm nay",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "lessonSlug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "今月",
+    "reading": "こんげつ",
+    "romaji": "kongetsu",
+    "meaning": "Tháng này",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "lessonSlug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "今週",
+    "reading": "こんしゅう",
+    "romaji": "konshuu",
+    "meaning": "Tuần này",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "lessonSlug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "来ます",
+    "reading": "きます",
+    "romaji": "kimasu",
+    "meaning": "đến",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "lessonSlug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "来週",
+    "reading": "らいしゅう",
+    "romaji": "raishuu",
+    "meaning": "Tuần sau",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "lessonSlug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "来月",
+    "reading": "らいげつ",
+    "romaji": "raigetsu",
+    "meaning": "Tháng sau",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "lessonSlug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "来年",
+    "reading": "らいねん",
+    "romaji": "rainen",
+    "meaning": "Sang năm",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "lessonSlug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "来日",
+    "reading": "らいにち",
+    "romaji": "rainichi",
+    "meaning": "đến Nhật Bản",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "lessonSlug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "帰ります",
+    "reading": "かえります",
+    "romaji": "kaerimasu",
+    "meaning": "về",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "lessonSlug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "日帰り",
+    "reading": "ひがえり",
+    "romaji": "higaeri",
+    "meaning": "đi về trong ngày",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "lessonSlug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "帰国",
+    "reading": "きこく",
+    "romaji": "kikoku",
+    "meaning": "về nước",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "lessonSlug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "会います",
+    "reading": "あいます",
+    "romaji": "aimasu",
+    "meaning": "Gặp gỡ",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "lessonSlug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "飲み会",
+    "reading": "のみかい",
+    "romaji": "nomikai",
+    "meaning": "nhậu",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "lessonSlug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "国会",
+    "reading": "こっかい",
+    "romaji": "kokkai",
+    "meaning": "quốc hội",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "lessonSlug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "会見",
+    "reading": "かいけん",
+    "romaji": "kaiken",
+    "meaning": "họp báo",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "lessonSlug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "会社",
+    "reading": "かいしゃ",
+    "romaji": "kaisha",
+    "meaning": "công ty",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "lessonSlug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "社会",
+    "reading": "しゃかい",
+    "romaji": "shakai",
+    "meaning": "xã hội",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "lessonSlug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "聞きます",
+    "reading": "ききます",
+    "romaji": "kikimasu",
+    "meaning": "nghe",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "lessonSlug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "新聞",
+    "reading": "しんぶん",
+    "romaji": "shinbun",
+    "meaning": "báo",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "lessonSlug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "読みます",
+    "reading": "よみます",
+    "romaji": "yomimasu",
+    "meaning": "đọc",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "lessonSlug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "読み物",
+    "reading": "よみもの",
+    "romaji": "yomimono",
+    "meaning": "tài liệu đọc",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "lessonSlug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "書きます",
+    "reading": "かきます",
+    "romaji": "kakimasu",
+    "meaning": "viết",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "lessonSlug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "読書",
+    "reading": "どくしょ",
+    "romaji": "dokusho",
+    "meaning": "đọc sách",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "lessonSlug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "話します",
+    "reading": "はなします",
+    "romaji": "hanashimasu",
+    "meaning": "Nói chuyện",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "lessonSlug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "話",
+    "reading": "はなし",
+    "romaji": "hanashi",
+    "meaning": "câu chuyện",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "lessonSlug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "会話",
+    "reading": "かいわ",
+    "romaji": "kaiwa",
+    "meaning": "Hội thoại",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "lessonSlug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "電話",
+    "reading": "でんわ",
+    "romaji": "denwa",
+    "meaning": "điện thoại",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "lessonSlug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "今",
+    "reading": "いま",
+    "romaji": "ima",
+    "meaning": "bây giờ",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "lessonSlug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "辞書",
+    "reading": "じしょ",
+    "romaji": "jisho",
+    "meaning": "Từ điển",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "lessonSlug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "書き物",
+    "reading": "かきもの",
+    "romaji": "kakimono",
+    "meaning": "tài liệu viết",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "lessonSlug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "肉",
+    "reading": "にく",
+    "romaji": "niku",
+    "meaning": "thịt",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "lessonSlug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "牛肉",
+    "reading": "ぎゅうにく",
+    "romaji": "gyuuniku",
+    "meaning": "thịt bò",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "lessonSlug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "豚肉",
+    "reading": "ぶたにく",
+    "romaji": "butaniku",
+    "meaning": "thịt heo",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "lessonSlug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "鶏肉",
+    "reading": "とりにく",
+    "romaji": "toriniku",
+    "meaning": "thịt gà",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "lessonSlug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "料金",
+    "reading": "りょうきん",
+    "romaji": "ryoukin",
+    "meaning": "tiền phí",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "lessonSlug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "料理",
+    "reading": "りょうり",
+    "romaji": "ryouri",
+    "meaning": "món ăn",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "lessonSlug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "野菜",
+    "reading": "やさい",
+    "romaji": "yasai",
+    "meaning": "rau",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "lessonSlug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "半年",
+    "reading": "はんとし/はんねん",
+    "romaji": "hantoshihannen",
+    "meaning": "nửa năm",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "lessonSlug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "半分",
+    "reading": "はんぶん",
+    "romaji": "hanbun",
+    "meaning": "Một nửa",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "lessonSlug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "半日",
+    "reading": "はんじつ/はんにち",
+    "romaji": "hanjitsuhannichi",
+    "meaning": "Nửa ngày",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "lessonSlug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "半月",
+    "reading": "はんつき",
+    "romaji": "hantsuki",
+    "meaning": "Nửa tháng",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "lessonSlug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "七時半",
+    "reading": "しちじはん",
+    "romaji": "shichijihan",
+    "meaning": "7h30",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "lessonSlug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "大きい",
+    "reading": "おおきい",
+    "romaji": "ookii",
+    "meaning": "To, lớn",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "lessonSlug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "大学生",
+    "reading": "だいがくせい",
+    "romaji": "daigakusei",
+    "meaning": "Sinh viên đại học",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "lessonSlug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "大人",
+    "reading": "おとな",
+    "romaji": "otona",
+    "meaning": "Người lớn",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "lessonSlug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "大会",
+    "reading": "たいかい",
+    "romaji": "taikai",
+    "meaning": "đại hội",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "lessonSlug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "大半",
+    "reading": "たいはん",
+    "romaji": "taihan",
+    "meaning": "Phần lớn",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "lessonSlug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "大学",
+    "reading": "だいがく",
+    "romaji": "daigaku",
+    "meaning": "Đại học",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "lessonSlug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "小さい",
+    "reading": "ちいさい",
+    "romaji": "chiisai",
+    "meaning": "Nhỏ",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "lessonSlug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "小学校",
+    "reading": "しょうがっこう",
+    "romaji": "shougakkou",
+    "meaning": "Trường tiểu học",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "lessonSlug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "小学生",
+    "reading": "しょうがくせい",
+    "romaji": "shougakusei",
+    "meaning": "Học sinh tiểu học, cấp 1",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "lessonSlug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "小人",
+    "reading": "こびと",
+    "romaji": "kobito",
+    "meaning": "đứa trẻ, người tí hon",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "lessonSlug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "お寺",
+    "reading": "おてら",
+    "romaji": "otera",
+    "meaning": "chùa",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "lessonSlug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "言います",
+    "reading": "いいます",
+    "romaji": "iimasu",
+    "meaning": "nói",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "lessonSlug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "言語",
+    "reading": "げんご",
+    "romaji": "gengo",
+    "meaning": "ngôn ngữ",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "lessonSlug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "言葉",
+    "reading": "ことば",
+    "romaji": "kotoba",
+    "meaning": "từ vựng",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "lessonSlug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "貝",
+    "reading": "かい",
+    "romaji": "kai",
+    "meaning": "con sò",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "lessonSlug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "田んぼ",
+    "reading": "たんぼ",
+    "romaji": "tanbo",
+    "meaning": "cánh đồng",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "lessonSlug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "水田",
+    "reading": "すいでん",
+    "romaji": "suiden",
+    "meaning": "cánh đồng lúa nước",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "lessonSlug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "力",
+    "reading": "ちから",
+    "romaji": "chikara",
+    "meaning": "sức lực",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "lessonSlug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "水力",
+    "reading": "すいりょく",
+    "romaji": "suiryoku",
+    "meaning": "sức nước",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "lessonSlug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "火力",
+    "reading": "かりょく",
+    "romaji": "karyoku",
+    "meaning": "công suất nhiệt, hỏa lực",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "lessonSlug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "門",
+    "reading": "もん",
+    "romaji": "mon",
+    "meaning": "cổng, cửa",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "lessonSlug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "家",
+    "reading": "いえ",
+    "romaji": "ie",
+    "meaning": "Nhà",
+    "level": "N3",
+    "topic": "JPD133 - Bài 8: Gia đình và Miêu tả tính chất",
+    "lessonSlug": "jpd133-l8",
+    "course": "jpd133"
+  },
+  {
+    "word": "うち",
+    "reading": "うち",
+    "romaji": "uchi",
+    "meaning": "Nhà",
+    "level": "N3",
+    "topic": "JPD133 - Bài 8: Gia đình và Miêu tả tính chất",
+    "lessonSlug": "jpd133-l8",
+    "course": "jpd133"
+  },
+  {
+    "word": "家族",
+    "reading": "かぞく",
+    "romaji": "kazoku",
+    "meaning": "gia đình",
+    "level": "N3",
+    "topic": "JPD133 - Bài 8: Gia đình và Miêu tả tính chất",
+    "lessonSlug": "jpd133-l8",
+    "course": "jpd133"
+  },
+  {
+    "word": "家賃",
+    "reading": "やちん",
+    "romaji": "yachin",
+    "meaning": "tiền thuê nhà",
+    "level": "N3",
+    "topic": "JPD133 - Bài 8: Gia đình và Miêu tả tính chất",
+    "lessonSlug": "jpd133-l8",
+    "course": "jpd133"
+  },
+  {
+    "word": "父",
+    "reading": "ちち",
+    "romaji": "chichi",
+    "meaning": "Bố (của mình)",
+    "level": "N3",
+    "topic": "JPD133 - Bài 8: Gia đình và Miêu tả tính chất",
+    "lessonSlug": "jpd133-l8",
+    "course": "jpd133"
+  },
+  {
+    "word": "お父さん",
+    "reading": "おとうさん",
+    "romaji": "otousan",
+    "meaning": "Bố (của người khác)",
+    "level": "N3",
+    "topic": "JPD133 - Bài 8: Gia đình và Miêu tả tính chất",
+    "lessonSlug": "jpd133-l8",
+    "course": "jpd133"
+  },
+  {
+    "word": "祖父",
+    "reading": "そふ",
+    "romaji": "sofu",
+    "meaning": "Ông",
+    "level": "N3",
+    "topic": "JPD133 - Bài 8: Gia đình và Miêu tả tính chất",
+    "lessonSlug": "jpd133-l8",
+    "course": "jpd133"
+  },
+  {
+    "word": "母",
+    "reading": "はは",
+    "romaji": "haha",
+    "meaning": "Mẹ (của mình)",
+    "level": "N3",
+    "topic": "JPD133 - Bài 8: Gia đình và Miêu tả tính chất",
+    "lessonSlug": "jpd133-l8",
+    "course": "jpd133"
+  },
+  {
+    "word": "お母さん",
+    "reading": "おかあさん",
+    "romaji": "okaasan",
+    "meaning": "Mẹ (của người khác)",
+    "level": "N3",
+    "topic": "JPD133 - Bài 8: Gia đình và Miêu tả tính chất",
+    "lessonSlug": "jpd133-l8",
+    "course": "jpd133"
+  },
+  {
+    "word": "母語",
+    "reading": "ぼご",
+    "romaji": "bogo",
+    "meaning": "tiếng mẹ đẻ",
+    "level": "N3",
+    "topic": "JPD133 - Bài 8: Gia đình và Miêu tả tính chất",
+    "lessonSlug": "jpd133-l8",
+    "course": "jpd133"
+  },
+  {
+    "word": "国語",
+    "reading": "こくご",
+    "romaji": "kokugo",
+    "meaning": "quốc ngữ/tiếng mẹ đẻ",
+    "level": "N3",
+    "topic": "JPD133 - Bài 8: Gia đình và Miêu tả tính chất",
+    "lessonSlug": "jpd133-l8",
+    "course": "jpd133"
+  },
+  {
+    "word": "兄",
+    "reading": "あに",
+    "romaji": "ani",
+    "meaning": "Anh trai (của mình)",
+    "level": "N3",
+    "topic": "JPD133 - Bài 8: Gia đình và Miêu tả tính chất",
+    "lessonSlug": "jpd133-l8",
+    "course": "jpd133"
+  },
+  {
+    "word": "お兄さん",
+    "reading": "おにいさん",
+    "romaji": "oniisan",
+    "meaning": "Anh trai (của người khác)",
+    "level": "N3",
+    "topic": "JPD133 - Bài 8: Gia đình và Miêu tả tính chất",
+    "lessonSlug": "jpd133-l8",
+    "course": "jpd133"
+  },
+  {
+    "word": "兄弟",
+    "reading": "きょうだい",
+    "romaji": "kyoudai",
+    "meaning": "Anh chị",
+    "level": "N3",
+    "topic": "JPD133 - Bài 8: Gia đình và Miêu tả tính chất",
+    "lessonSlug": "jpd133-l8",
+    "course": "jpd133"
+  },
+  {
+    "word": "弟",
+    "reading": "おとうと",
+    "romaji": "otouto",
+    "meaning": "Em trai (của mình)",
+    "level": "N3",
+    "topic": "JPD133 - Bài 8: Gia đình và Miêu tả tính chất",
+    "lessonSlug": "jpd133-l8",
+    "course": "jpd133"
+  },
+  {
+    "word": "弟さん",
+    "reading": "おとうとさん",
+    "romaji": "otoutosan",
+    "meaning": "Em trai (của người khác)",
+    "level": "N3",
+    "topic": "JPD133 - Bài 8: Gia đình và Miêu tả tính chất",
+    "lessonSlug": "jpd133-l8",
+    "course": "jpd133"
+  },
+  {
+    "word": "姉",
+    "reading": "あね",
+    "romaji": "ane",
+    "meaning": "Chị gái (của mình)",
+    "level": "N3",
+    "topic": "JPD133 - Bài 8: Gia đình và Miêu tả tính chất",
+    "lessonSlug": "jpd133-l8",
+    "course": "jpd133"
+  },
+  {
+    "word": "お姉さん",
+    "reading": "おねえさん",
+    "romaji": "oneesan",
+    "meaning": "Chị gái (của người khác)",
+    "level": "N3",
+    "topic": "JPD133 - Bài 8: Gia đình và Miêu tả tính chất",
+    "lessonSlug": "jpd133-l8",
+    "course": "jpd133"
+  },
+  {
+    "word": "姉妹",
+    "reading": "しまい",
+    "romaji": "shimai",
+    "meaning": "chị em",
+    "level": "N3",
+    "topic": "JPD133 - Bài 8: Gia đình và Miêu tả tính chất",
+    "lessonSlug": "jpd133-l8",
+    "course": "jpd133"
+  },
+  {
+    "word": "妹",
+    "reading": "いもうと",
+    "romaji": "imouto",
+    "meaning": "Em gái (của mình)",
+    "level": "N3",
+    "topic": "JPD133 - Bài 8: Gia đình và Miêu tả tính chất",
+    "lessonSlug": "jpd133-l8",
+    "course": "jpd133"
+  },
+  {
+    "word": "妹さん",
+    "reading": "いもうとさん",
+    "romaji": "imoutosan",
+    "meaning": "Em gái (của người khác)",
+    "level": "N3",
+    "topic": "JPD133 - Bài 8: Gia đình và Miêu tả tính chất",
+    "lessonSlug": "jpd133-l8",
+    "course": "jpd133"
+  },
+  {
+    "word": "犬",
+    "reading": "いぬ",
+    "romaji": "inu",
+    "meaning": "con chó",
+    "level": "N3",
+    "topic": "JPD133 - Bài 8: Gia đình và Miêu tả tính chất",
+    "lessonSlug": "jpd133-l8",
+    "course": "jpd133"
+  },
+  {
+    "word": "高い",
+    "reading": "たかい",
+    "romaji": "takai",
+    "meaning": "Cao, đắt",
+    "level": "N3",
+    "topic": "JPD133 - Bài 8: Gia đình và Miêu tả tính chất",
+    "lessonSlug": "jpd133-l8",
+    "course": "jpd133"
+  },
+  {
+    "word": "高校",
+    "reading": "こうこう",
+    "romaji": "koukou",
+    "meaning": "trường cấp ba",
+    "level": "N3",
+    "topic": "JPD133 - Bài 8: Gia đình và Miêu tả tính chất",
+    "lessonSlug": "jpd133-l8",
+    "course": "jpd133"
+  },
+  {
+    "word": "高校生",
+    "reading": "こうこうせい",
+    "romaji": "koukousei",
+    "meaning": "Học sinh cấp ba",
+    "level": "N3",
+    "topic": "JPD133 - Bài 8: Gia đình và Miêu tả tính chất",
+    "lessonSlug": "jpd133-l8",
+    "course": "jpd133"
+  },
+  {
+    "word": "長い",
+    "reading": "ながい",
+    "romaji": "nagai",
+    "meaning": "Dài",
+    "level": "N3",
+    "topic": "JPD133 - Bài 8: Gia đình và Miêu tả tính chất",
+    "lessonSlug": "jpd133-l8",
+    "course": "jpd133"
+  },
+  {
+    "word": "社長",
+    "reading": "しゃちょう",
+    "romaji": "shachou",
+    "meaning": "giám đốc",
+    "level": "N3",
+    "topic": "JPD133 - Bài 8: Gia đình và Miêu tả tính chất",
+    "lessonSlug": "jpd133-l8",
+    "course": "jpd133"
+  },
+  {
+    "word": "短い",
+    "reading": "みじかい",
+    "romaji": "mijikai",
+    "meaning": "Ngắn",
+    "level": "N3",
+    "topic": "JPD133 - Bài 8: Gia đình và Miêu tả tính chất",
+    "lessonSlug": "jpd133-l8",
+    "course": "jpd133"
+  },
+  {
+    "word": "好き",
+    "reading": "すき",
+    "romaji": "suki",
+    "meaning": "Thích",
+    "level": "N3",
+    "topic": "JPD133 - Bài 9: Sở thích, Nghệ thuật và Du lịch",
+    "lessonSlug": "jpd133-l9",
+    "course": "jpd133"
+  },
+  {
+    "word": "大好き",
+    "reading": "だいすき",
+    "romaji": "daisuki",
+    "meaning": "rất thích",
+    "level": "N3",
+    "topic": "JPD133 - Bài 9: Sở thích, Nghệ thuật và Du lịch",
+    "lessonSlug": "jpd133-l9",
+    "course": "jpd133"
+  },
+  {
+    "word": "楽",
+    "reading": "LẠC/NHẠC",
+    "romaji": "Vui",
+    "meaning": "vẻ, âm nhạc ガク ラク たのしい",
+    "level": "N3",
+    "topic": "JPD133 - Bài 9: Sở thích, Nghệ thuật và Du lịch",
+    "lessonSlug": "jpd133-l9",
+    "course": "jpd133"
+  },
+  {
+    "word": "大好物",
+    "reading": "だいこうぶつ",
+    "romaji": "daikoubutsu",
+    "meaning": "món ăn rất yêu thích",
+    "level": "N3",
+    "topic": "JPD133 - Bài 9: Sở thích, Nghệ thuật và Du lịch",
+    "lessonSlug": "jpd133-l9",
+    "course": "jpd133"
+  },
+  {
+    "word": "歌",
+    "reading": "うた",
+    "romaji": "uta",
+    "meaning": "bài hát",
+    "level": "N3",
+    "topic": "JPD133 - Bài 9: Sở thích, Nghệ thuật và Du lịch",
+    "lessonSlug": "jpd133-l9",
+    "course": "jpd133"
+  },
+  {
+    "word": "歌う",
+    "reading": "うたう",
+    "romaji": "utau",
+    "meaning": "hát",
+    "level": "N3",
+    "topic": "JPD133 - Bài 9: Sở thích, Nghệ thuật và Du lịch",
+    "lessonSlug": "jpd133-l9",
+    "course": "jpd133"
+  },
+  {
+    "word": "国歌",
+    "reading": "こっか",
+    "romaji": "kokka",
+    "meaning": "quốc ca",
+    "level": "N3",
+    "topic": "JPD133 - Bài 9: Sở thích, Nghệ thuật và Du lịch",
+    "lessonSlug": "jpd133-l9",
+    "course": "jpd133"
+  },
+  {
+    "word": "短歌",
+    "reading": "たんか",
+    "romaji": "tanka",
+    "meaning": "thơ ngắn",
+    "level": "N3",
+    "topic": "JPD133 - Bài 9: Sở thích, Nghệ thuật và Du lịch",
+    "lessonSlug": "jpd133-l9",
+    "course": "jpd133"
+  },
+  {
+    "word": "音",
+    "reading": "おと",
+    "romaji": "oto",
+    "meaning": "Âm thanh, tiếng động",
+    "level": "N3",
+    "topic": "JPD133 - Bài 9: Sở thích, Nghệ thuật và Du lịch",
+    "lessonSlug": "jpd133-l9",
+    "course": "jpd133"
+  },
+  {
+    "word": "音読み",
+    "reading": "おんよみ",
+    "romaji": "on'yomi",
+    "meaning": "âm On",
+    "level": "N3",
+    "topic": "JPD133 - Bài 9: Sở thích, Nghệ thuật và Du lịch",
+    "lessonSlug": "jpd133-l9",
+    "course": "jpd133"
+  },
+  {
+    "word": "楽しい",
+    "reading": "たのしい",
+    "romaji": "tanoshii",
+    "meaning": "Vui vẻ",
+    "level": "N3",
+    "topic": "JPD133 - Bài 9: Sở thích, Nghệ thuật và Du lịch",
+    "lessonSlug": "jpd133-l9",
+    "course": "jpd133"
+  },
+  {
+    "word": "音楽",
+    "reading": "おんがく",
+    "romaji": "ongaku",
+    "meaning": "âm nhạc",
+    "level": "N3",
+    "topic": "JPD133 - Bài 9: Sở thích, Nghệ thuật và Du lịch",
+    "lessonSlug": "jpd133-l9",
+    "course": "jpd133"
+  },
+  {
+    "word": "車",
+    "reading": "くるま",
+    "romaji": "kuruma",
+    "meaning": "Ô tô",
+    "level": "N3",
+    "topic": "JPD133 - Bài 9: Sở thích, Nghệ thuật và Du lịch",
+    "lessonSlug": "jpd133-l9",
+    "course": "jpd133"
+  },
+  {
+    "word": "映画",
+    "reading": "えいが",
+    "romaji": "eiga",
+    "meaning": "phim",
+    "level": "N3",
+    "topic": "JPD133 - Bài 9: Sở thích, Nghệ thuật và Du lịch",
+    "lessonSlug": "jpd133-l9",
+    "course": "jpd133"
+  },
+  {
+    "word": "計画",
+    "reading": "けいかく",
+    "romaji": "keikaku",
+    "meaning": "kế hoạch",
+    "level": "N3",
+    "topic": "JPD133 - Bài 9: Sở thích, Nghệ thuật và Du lịch",
+    "lessonSlug": "jpd133-l9",
+    "course": "jpd133"
+  },
+  {
+    "word": "旅",
+    "reading": "たび",
+    "romaji": "tabi",
+    "meaning": "chuyến đi",
+    "level": "N3",
+    "topic": "JPD133 - Bài 9: Sở thích, Nghệ thuật và Du lịch",
+    "lessonSlug": "jpd133-l9",
+    "course": "jpd133"
+  },
+  {
+    "word": "旅行",
+    "reading": "りょこう",
+    "romaji": "ryokou",
+    "meaning": "du lịch",
+    "level": "N3",
+    "topic": "JPD133 - Bài 9: Sở thích, Nghệ thuật và Du lịch",
+    "lessonSlug": "jpd133-l9",
+    "course": "jpd133"
+  },
+  {
+    "word": "海",
+    "reading": "うみ",
+    "romaji": "umi",
+    "meaning": "biển",
+    "level": "N3",
+    "topic": "JPD133 - Bài 9: Sở thích, Nghệ thuật và Du lịch",
+    "lessonSlug": "jpd133-l9",
+    "course": "jpd133"
+  },
+  {
+    "word": "海水",
+    "reading": "かいすい",
+    "romaji": "kaisui",
+    "meaning": "nước biển",
+    "level": "N3",
+    "topic": "JPD133 - Bài 9: Sở thích, Nghệ thuật và Du lịch",
+    "lessonSlug": "jpd133-l9",
+    "course": "jpd133"
+  },
+  {
+    "word": "外",
+    "reading": "そと",
+    "romaji": "soto",
+    "meaning": "Ngoài",
+    "level": "N3",
+    "topic": "JPD133 - Bài 9: Sở thích, Nghệ thuật và Du lịch",
+    "lessonSlug": "jpd133-l9",
+    "course": "jpd133"
+  },
+  {
+    "word": "家の外",
+    "reading": "いえのそと",
+    "romaji": "ienosoto",
+    "meaning": "bên ngoài nhà",
+    "level": "N3",
+    "topic": "JPD133 - Bài 9: Sở thích, Nghệ thuật và Du lịch",
+    "lessonSlug": "jpd133-l9",
+    "course": "jpd133"
+  },
+  {
+    "word": "外国",
+    "reading": "がいこく",
+    "romaji": "gaikoku",
+    "meaning": "Nước ngoài NGOẠI QUỐC",
+    "level": "N3",
+    "topic": "JPD133 - Bài 9: Sở thích, Nghệ thuật và Du lịch",
+    "lessonSlug": "jpd133-l9",
+    "course": "jpd133"
+  },
+  {
+    "word": "外国語",
+    "reading": "がいこくご",
+    "romaji": "gaikokugo",
+    "meaning": "ngoại ngữ",
+    "level": "N3",
+    "topic": "JPD133 - Bài 9: Sở thích, Nghệ thuật và Du lịch",
+    "lessonSlug": "jpd133-l9",
+    "course": "jpd133"
+  },
+  {
+    "word": "外国人",
+    "reading": "がいこくじん",
+    "romaji": "gaikokujin",
+    "meaning": "người nước ngoài",
+    "level": "N3",
+    "topic": "JPD133 - Bài 9: Sở thích, Nghệ thuật và Du lịch",
+    "lessonSlug": "jpd133-l9",
+    "course": "jpd133"
+  },
+  {
+    "word": "社外",
+    "reading": "しゃがい",
+    "romaji": "shagai",
+    "meaning": "ngoài công ty",
+    "level": "N3",
+    "topic": "JPD133 - Bài 9: Sở thích, Nghệ thuật và Du lịch",
+    "lessonSlug": "jpd133-l9",
+    "course": "jpd133"
+  },
+  {
+    "word": "海外",
+    "reading": "かいがい",
+    "romaji": "kaigai",
+    "meaning": "hải ngoại",
+    "level": "N3",
+    "topic": "JPD133 - Bài 9: Sở thích, Nghệ thuật và Du lịch",
+    "lessonSlug": "jpd133-l9",
+    "course": "jpd133"
+  },
+  {
+    "word": "駅",
+    "reading": "えき",
+    "romaji": "eki",
+    "meaning": "Nhà ga",
+    "level": "N3",
+    "topic": "JPD133 - Bài 10: Giao thông và Phương hướng",
+    "lessonSlug": "jpd133-l10",
+    "course": "jpd133"
+  },
+  {
+    "word": "駅長",
+    "reading": "えきちょう",
+    "romaji": "ekichou",
+    "meaning": "trưởng ga",
+    "level": "N3",
+    "topic": "JPD133 - Bài 10: Giao thông và Phương hướng",
+    "lessonSlug": "jpd133-l10",
+    "course": "jpd133"
+  },
+  {
+    "word": "上",
+    "reading": "うえ",
+    "romaji": "ue",
+    "meaning": "Trên",
+    "level": "N3",
+    "topic": "JPD133 - Bài 10: Giao thông và Phương hướng",
+    "lessonSlug": "jpd133-l10",
+    "course": "jpd133"
+  },
+  {
+    "word": "上京",
+    "reading": "じょうきょう",
+    "romaji": "joukyou",
+    "meaning": "lên Tokyo",
+    "level": "N3",
+    "topic": "JPD133 - Bài 10: Giao thông và Phương hướng",
+    "lessonSlug": "jpd133-l10",
+    "course": "jpd133"
+  },
+  {
+    "word": "上下",
+    "reading": "じょうげ",
+    "romaji": "jouge",
+    "meaning": "trên dưới",
+    "level": "N3",
+    "topic": "JPD133 - Bài 10: Giao thông và Phương hướng",
+    "lessonSlug": "jpd133-l10",
+    "course": "jpd133"
+  },
+  {
+    "word": "下",
+    "reading": "した",
+    "romaji": "shita",
+    "meaning": "Dưới",
+    "level": "N3",
+    "topic": "JPD133 - Bài 10: Giao thông và Phương hướng",
+    "lessonSlug": "jpd133-l10",
+    "course": "jpd133"
+  },
+  {
+    "word": "下車",
+    "reading": "げしゃ",
+    "romaji": "gesha",
+    "meaning": "xuống xe",
+    "level": "N3",
+    "topic": "JPD133 - Bài 10: Giao thông và Phương hướng",
+    "lessonSlug": "jpd133-l10",
+    "course": "jpd133"
+  },
+  {
+    "word": "地",
+    "reading": "ち",
+    "romaji": "chi",
+    "meaning": "đất",
+    "level": "N3",
+    "topic": "JPD133 - Bài 10: Giao thông và Phương hướng",
+    "lessonSlug": "jpd133-l10",
+    "course": "jpd133"
+  },
+  {
+    "word": "土地",
+    "reading": "とち",
+    "romaji": "tochi",
+    "meaning": "đất đai",
+    "level": "N3",
+    "topic": "JPD133 - Bài 10: Giao thông và Phương hướng",
+    "lessonSlug": "jpd133-l10",
+    "course": "jpd133"
+  },
+  {
+    "word": "地図",
+    "reading": "ちず",
+    "romaji": "chizu",
+    "meaning": "bản đồ",
+    "level": "N3",
+    "topic": "JPD133 - Bài 10: Giao thông và Phương hướng",
+    "lessonSlug": "jpd133-l10",
+    "course": "jpd133"
+  },
+  {
+    "word": "地下",
+    "reading": "ちか",
+    "romaji": "chika",
+    "meaning": "tầng hầm",
+    "level": "N3",
+    "topic": "JPD133 - Bài 10: Giao thông và Phương hướng",
+    "lessonSlug": "jpd133-l10",
+    "course": "jpd133"
+  },
+  {
+    "word": "図",
+    "reading": "ず",
+    "romaji": "zu",
+    "meaning": "hình vẽ",
+    "level": "N3",
+    "topic": "JPD133 - Bài 10: Giao thông và Phương hướng",
+    "lessonSlug": "jpd133-l10",
+    "course": "jpd133"
+  },
+  {
+    "word": "図書館",
+    "reading": "としょかん",
+    "romaji": "toshokan",
+    "meaning": "thư viện",
+    "level": "N3",
+    "topic": "JPD133 - Bài 10: Giao thông và Phương hướng",
+    "lessonSlug": "jpd133-l10",
+    "course": "jpd133"
+  },
+  {
+    "word": "旅館",
+    "reading": "りょかん",
+    "romaji": "ryokan",
+    "meaning": "lữ quán",
+    "level": "N3",
+    "topic": "JPD133 - Bài 10: Giao thông và Phương hướng",
+    "lessonSlug": "jpd133-l10",
+    "course": "jpd133"
+  },
+  {
+    "word": "会館",
+    "reading": "かいかん",
+    "romaji": "kaikan",
+    "meaning": "hội quán",
+    "level": "N3",
+    "topic": "JPD133 - Bài 10: Giao thông và Phương hướng",
+    "lessonSlug": "jpd133-l10",
+    "course": "jpd133"
+  },
+  {
+    "word": "映画館",
+    "reading": "えいがかん",
+    "romaji": "eigakan",
+    "meaning": "rạp chiếu phim",
+    "level": "N3",
+    "topic": "JPD133 - Bài 10: Giao thông và Phương hướng",
+    "lessonSlug": "jpd133-l10",
+    "course": "jpd133"
+  },
+  {
+    "word": "右",
+    "reading": "みぎ",
+    "romaji": "migi",
+    "meaning": "Bên phải",
+    "level": "N3",
+    "topic": "JPD133 - Bài 10: Giao thông và Phương hướng",
+    "lessonSlug": "jpd133-l10",
+    "course": "jpd133"
+  },
+  {
+    "word": "左右",
+    "reading": "さゆう",
+    "romaji": "sayuu",
+    "meaning": "trái phải",
+    "level": "N3",
+    "topic": "JPD133 - Bài 10: Giao thông và Phương hướng",
+    "lessonSlug": "jpd133-l10",
+    "course": "jpd133"
+  },
+  {
+    "word": "左",
+    "reading": "ひだり",
+    "romaji": "hidari",
+    "meaning": "Bên trái",
+    "level": "N3",
+    "topic": "JPD133 - Bài 10: Giao thông và Phương hướng",
+    "lessonSlug": "jpd133-l10",
+    "course": "jpd133"
+  },
+  {
+    "word": "道",
+    "reading": "みち",
+    "romaji": "michi",
+    "meaning": "Đường",
+    "level": "N3",
+    "topic": "JPD133 - Bài 10: Giao thông và Phương hướng",
+    "lessonSlug": "jpd133-l10",
+    "course": "jpd133"
+  },
+  {
+    "word": "書道",
+    "reading": "しょどう",
+    "romaji": "shodou",
+    "meaning": "thư pháp",
+    "level": "N3",
+    "topic": "JPD133 - Bài 10: Giao thông và Phương hướng",
+    "lessonSlug": "jpd133-l10",
+    "course": "jpd133"
+  },
+  {
+    "word": "国道",
+    "reading": "こくどう",
+    "romaji": "kokudou",
+    "meaning": "quốc lộ",
+    "level": "N3",
+    "topic": "JPD133 - Bài 10: Giao thông và Phương hướng",
+    "lessonSlug": "jpd133-l10",
+    "course": "jpd133"
+  },
+  {
+    "word": "車道",
+    "reading": "しゃどう",
+    "romaji": "shadou",
+    "meaning": "làn đường xe",
+    "level": "N3",
+    "topic": "JPD133 - Bài 10: Giao thông và Phương hướng",
+    "lessonSlug": "jpd133-l10",
+    "course": "jpd133"
+  },
+  {
+    "word": "歩道",
+    "reading": "ほどう",
+    "romaji": "hodou",
+    "meaning": "vỉa hè",
+    "level": "N3",
+    "topic": "JPD133 - Bài 10: Giao thông và Phương hướng",
+    "lessonSlug": "jpd133-l10",
+    "course": "jpd133"
+  },
+  {
+    "word": "夜道",
+    "reading": "よみち",
+    "romaji": "yomichi",
+    "meaning": "đường ban đêm",
+    "level": "N3",
+    "topic": "JPD133 - Bài 10: Giao thông và Phương hướng",
+    "lessonSlug": "jpd133-l10",
+    "course": "jpd133"
+  },
+  {
+    "word": "起きます",
+    "reading": "おきます",
+    "romaji": "okimasu",
+    "meaning": "thức dậy",
+    "level": "N3",
+    "topic": "JPD133 - Bài 11: Sinh hoạt, Học tập và Thời gian",
+    "lessonSlug": "jpd133-l11",
+    "course": "jpd133"
+  },
+  {
+    "word": "起こす",
+    "reading": "おこす",
+    "romaji": "okosu",
+    "meaning": "gây ra/đánh thức",
+    "level": "N3",
+    "topic": "JPD133 - Bài 11: Sinh hoạt, Học tập và Thời gian",
+    "lessonSlug": "jpd133-l11",
+    "course": "jpd133"
+  },
+  {
+    "word": "一歩",
+    "reading": "いっぽ",
+    "romaji": "ippo",
+    "meaning": "một bước",
+    "level": "N3",
+    "topic": "JPD133 - Bài 11: Sinh hoạt, Học tập và Thời gian",
+    "lessonSlug": "jpd133-l11",
+    "course": "jpd133"
+  },
+  {
+    "word": "歩く",
+    "reading": "あるく",
+    "romaji": "aruku",
+    "meaning": "đi bộ BỘ",
+    "level": "N3",
+    "topic": "JPD133 - Bài 11: Sinh hoạt, Học tập và Thời gian",
+    "lessonSlug": "jpd133-l11",
+    "course": "jpd133"
+  },
+  {
+    "word": "歩道",
+    "reading": "ほどう",
+    "romaji": "hodou",
+    "meaning": "vỉa hè",
+    "level": "N3",
+    "topic": "JPD133 - Bài 11: Sinh hoạt, Học tập và Thời gian",
+    "lessonSlug": "jpd133-l11",
+    "course": "jpd133"
+  },
+  {
+    "word": "始まります",
+    "reading": "はじまります",
+    "romaji": "hajimarimasu",
+    "meaning": "bắt đầu",
+    "level": "N3",
+    "topic": "JPD133 - Bài 11: Sinh hoạt, Học tập và Thời gian",
+    "lessonSlug": "jpd133-l11",
+    "course": "jpd133"
+  },
+  {
+    "word": "始めます",
+    "reading": "はじめます",
+    "romaji": "hajimemasu",
+    "meaning": "bắt đầu",
+    "level": "N3",
+    "topic": "JPD133 - Bài 11: Sinh hoạt, Học tập và Thời gian",
+    "lessonSlug": "jpd133-l11",
+    "course": "jpd133"
+  },
+  {
+    "word": "終わります",
+    "reading": "おわります",
+    "romaji": "owarimasu",
+    "meaning": "kết thúc",
+    "level": "N3",
+    "topic": "JPD133 - Bài 11: Sinh hoạt, Học tập và Thời gian",
+    "lessonSlug": "jpd133-l11",
+    "course": "jpd133"
+  },
+  {
+    "word": "終わり",
+    "reading": "おわり",
+    "romaji": "owari",
+    "meaning": "phần kết",
+    "level": "N3",
+    "topic": "JPD133 - Bài 11: Sinh hoạt, Học tập và Thời gian",
+    "lessonSlug": "jpd133-l11",
+    "course": "jpd133"
+  },
+  {
+    "word": "勉学",
+    "reading": "べんがく",
+    "romaji": "bengaku",
+    "meaning": "học tập chăm chỉ",
+    "level": "N3",
+    "topic": "JPD133 - Bài 11: Sinh hoạt, Học tập và Thời gian",
+    "lessonSlug": "jpd133-l11",
+    "course": "jpd133"
+  },
+  {
+    "word": "勉強",
+    "reading": "べんきょう",
+    "romaji": "benkyou",
+    "meaning": "học hành",
+    "level": "N3",
+    "topic": "JPD133 - Bài 11: Sinh hoạt, Học tập và Thời gian",
+    "lessonSlug": "jpd133-l11",
+    "course": "jpd133"
+  },
+  {
+    "word": "強い",
+    "reading": "つよい",
+    "romaji": "tsuyoi",
+    "meaning": "mạnh",
+    "level": "N3",
+    "topic": "JPD133 - Bài 11: Sinh hoạt, Học tập và Thời gian",
+    "lessonSlug": "jpd133-l11",
+    "course": "jpd133"
+  },
+  {
+    "word": "朝",
+    "reading": "あさ",
+    "romaji": "asa",
+    "meaning": "buổi sáng",
+    "level": "N3",
+    "topic": "JPD133 - Bài 11: Sinh hoạt, Học tập và Thời gian",
+    "lessonSlug": "jpd133-l11",
+    "course": "jpd133"
+  },
+  {
+    "word": "今朝",
+    "reading": "けさ",
+    "romaji": "kesa",
+    "meaning": "Sáng nay",
+    "level": "N3",
+    "topic": "JPD133 - Bài 11: Sinh hoạt, Học tập và Thời gian",
+    "lessonSlug": "jpd133-l11",
+    "course": "jpd133"
+  },
+  {
+    "word": "朝食",
+    "reading": "ちょうしょく",
+    "romaji": "choushoku",
+    "meaning": "bữa sáng",
+    "level": "N3",
+    "topic": "JPD133 - Bài 11: Sinh hoạt, Học tập và Thời gian",
+    "lessonSlug": "jpd133-l11",
+    "course": "jpd133"
+  },
+  {
+    "word": "毎朝",
+    "reading": "まいあさ",
+    "romaji": "maiasa",
+    "meaning": "mỗi sáng",
+    "level": "N3",
+    "topic": "JPD133 - Bài 11: Sinh hoạt, Học tập và Thời gian",
+    "lessonSlug": "jpd133-l11",
+    "course": "jpd133"
+  },
+  {
+    "word": "昼",
+    "reading": "ひる",
+    "romaji": "hiru",
+    "meaning": "buổi trưa",
+    "level": "N3",
+    "topic": "JPD133 - Bài 11: Sinh hoạt, Học tập và Thời gian",
+    "lessonSlug": "jpd133-l11",
+    "course": "jpd133"
+  },
+  {
+    "word": "昼食",
+    "reading": "ちゅうしょく",
+    "romaji": "chuushoku",
+    "meaning": "bữa trưa",
+    "level": "N3",
+    "topic": "JPD133 - Bài 11: Sinh hoạt, Học tập và Thời gian",
+    "lessonSlug": "jpd133-l11",
+    "course": "jpd133"
+  },
+  {
+    "word": "昼間",
+    "reading": "ひるま",
+    "romaji": "hiruma",
+    "meaning": "ban ngày",
+    "level": "N3",
+    "topic": "JPD133 - Bài 11: Sinh hoạt, Học tập và Thời gian",
+    "lessonSlug": "jpd133-l11",
+    "course": "jpd133"
+  },
+  {
+    "word": "夜",
+    "reading": "よる",
+    "romaji": "yoru",
+    "meaning": "buổi tối",
+    "level": "N3",
+    "topic": "JPD133 - Bài 11: Sinh hoạt, Học tập và Thời gian",
+    "lessonSlug": "jpd133-l11",
+    "course": "jpd133"
+  },
+  {
+    "word": "今夜",
+    "reading": "こんや",
+    "romaji": "kon'ya",
+    "meaning": "đêm nay",
+    "level": "N3",
+    "topic": "JPD133 - Bài 11: Sinh hoạt, Học tập và Thời gian",
+    "lessonSlug": "jpd133-l11",
+    "course": "jpd133"
+  },
+  {
+    "word": "夜会",
+    "reading": "やかい",
+    "romaji": "yakai",
+    "meaning": "tiệc đêm",
+    "level": "N3",
+    "topic": "JPD133 - Bài 11: Sinh hoạt, Học tập và Thời gian",
+    "lessonSlug": "jpd133-l11",
+    "course": "jpd133"
+  },
+  {
+    "word": "夜間",
+    "reading": "やかん",
+    "romaji": "yakan",
+    "meaning": "ban tối",
+    "level": "N3",
+    "topic": "JPD133 - Bài 11: Sinh hoạt, Học tập và Thời gian",
+    "lessonSlug": "jpd133-l11",
+    "course": "jpd133"
+  },
+  {
+    "word": "夜道",
+    "reading": "よみち",
+    "romaji": "yomichi",
+    "meaning": "đường ban đêm",
+    "level": "N3",
+    "topic": "JPD133 - Bài 11: Sinh hoạt, Học tập và Thời gian",
+    "lessonSlug": "jpd133-l11",
+    "course": "jpd133"
+  }
+]

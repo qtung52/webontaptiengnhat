@@ -1,0 +1,1874 @@
+[
+  {
+    "word": "私",
+    "reading": "わたし",
+    "meaning": "Tôi",
+    "level": "N5",
+    "topic": "JPD113 - Bài 1: Giới thiệu bản thân và Trường học",
+    "slug": "jpd113-l1",
+    "course": "jpd113"
+  },
+  {
+    "word": "人",
+    "reading": "ひと",
+    "meaning": "Người",
+    "level": "N5",
+    "topic": "JPD113 - Bài 1: Giới thiệu bản thân và Trường học",
+    "slug": "jpd113-l1",
+    "course": "jpd113"
+  },
+  {
+    "word": "あの人",
+    "reading": "あのひと",
+    "meaning": "Người kia",
+    "level": "N5",
+    "topic": "JPD113 - Bài 1: Giới thiệu bản thân và Trường học",
+    "slug": "jpd113-l1",
+    "course": "jpd113"
+  },
+  {
+    "word": "2才",
+    "reading": "にさい",
+    "meaning": "2 tuổi",
+    "level": "N5",
+    "topic": "JPD113 - Bài 1: Giới thiệu bản thân và Trường học",
+    "slug": "jpd113-l1",
+    "course": "jpd113"
+  },
+  {
+    "word": "8才",
+    "reading": "はっさい",
+    "meaning": "8 tuổi",
+    "level": "N5",
+    "topic": "JPD113 - Bài 1: Giới thiệu bản thân và Trường học",
+    "slug": "jpd113-l1",
+    "course": "jpd113"
+  },
+  {
+    "word": "何才",
+    "reading": "なんさい",
+    "meaning": "Mấy tuổi",
+    "level": "N5",
+    "topic": "JPD113 - Bài 1: Giới thiệu bản thân và Trường học",
+    "slug": "jpd113-l1",
+    "course": "jpd113"
+  },
+  {
+    "word": "大学",
+    "reading": "だいがく",
+    "meaning": "Đại học",
+    "level": "N5",
+    "topic": "JPD113 - Bài 1: Giới thiệu bản thân và Trường học",
+    "slug": "jpd113-l1",
+    "course": "jpd113"
+  },
+  {
+    "word": "学生",
+    "reading": "がくせい",
+    "meaning": "Học sinh / sinh viên",
+    "level": "N5",
+    "topic": "JPD113 - Bài 1: Giới thiệu bản thân và Trường học",
+    "slug": "jpd113-l1",
+    "course": "jpd113"
+  },
+  {
+    "word": "先生",
+    "reading": "せんせい",
+    "meaning": "thầy/cô giáo",
+    "level": "N5",
+    "topic": "JPD113 - Bài 1: Giới thiệu bản thân và Trường học",
+    "slug": "jpd113-l1",
+    "course": "jpd113"
+  },
+  {
+    "word": "学校",
+    "reading": "がっこう",
+    "meaning": "Trường học",
+    "level": "N5",
+    "topic": "JPD113 - Bài 1: Giới thiệu bản thân và Trường học",
+    "slug": "jpd113-l1",
+    "course": "jpd113"
+  },
+  {
+    "word": "10日",
+    "reading": "とおか",
+    "meaning": "Mùng 10",
+    "level": "N5",
+    "topic": "JPD113 - Bài 1: Giới thiệu bản thân và Trường học",
+    "slug": "jpd113-l1",
+    "course": "jpd113"
+  },
+  {
+    "word": "日曜日",
+    "reading": "にちようび",
+    "meaning": "Chủ nhật",
+    "level": "N5",
+    "topic": "JPD113 - Bài 1: Giới thiệu bản thân và Trường học",
+    "slug": "jpd113-l1",
+    "course": "jpd113"
+  },
+  {
+    "word": "日",
+    "reading": "ひ",
+    "meaning": "Ngày / mặt trời",
+    "level": "N5",
+    "topic": "JPD113 - Bài 1: Giới thiệu bản thân và Trường học",
+    "slug": "jpd113-l1",
+    "course": "jpd113"
+  },
+  {
+    "word": "休日",
+    "reading": "きゅうじつ",
+    "meaning": "ngày nghỉ",
+    "level": "N5",
+    "topic": "JPD113 - Bài 1: Giới thiệu bản thân và Trường học",
+    "slug": "jpd113-l1",
+    "course": "jpd113"
+  },
+  {
+    "word": "本",
+    "reading": "ほん",
+    "meaning": "Sách",
+    "level": "N5",
+    "topic": "JPD113 - Bài 1: Giới thiệu bản thân và Trường học",
+    "slug": "jpd113-l1",
+    "course": "jpd113"
+  },
+  {
+    "word": "日本",
+    "reading": "にほん",
+    "meaning": "Nhật Bản",
+    "level": "N5",
+    "topic": "JPD113 - Bài 1: Giới thiệu bản thân và Trường học",
+    "slug": "jpd113-l1",
+    "course": "jpd113"
+  },
+  {
+    "word": "日本人",
+    "reading": "にほんじん",
+    "meaning": "Người Nhật Bản",
+    "level": "N5",
+    "topic": "JPD113 - Bài 1: Giới thiệu bản thân và Trường học",
+    "slug": "jpd113-l1",
+    "course": "jpd113"
+  },
+  {
+    "word": "日本語",
+    "reading": "にほんご",
+    "meaning": "Tiếng Nhật",
+    "level": "N5",
+    "topic": "JPD113 - Bài 1: Giới thiệu bản thân và Trường học",
+    "slug": "jpd113-l1",
+    "course": "jpd113"
+  },
+  {
+    "word": "ベトナム語",
+    "reading": "ベトナムご",
+    "meaning": "Tiếng Việt",
+    "level": "N5",
+    "topic": "JPD113 - Bài 1: Giới thiệu bản thân và Trường học",
+    "slug": "jpd113-l1",
+    "course": "jpd113"
+  },
+  {
+    "word": "～人",
+    "reading": "〜じん",
+    "meaning": "người (nước ~)",
+    "level": "N5",
+    "topic": "JPD113 - Bài 1: Giới thiệu bản thân và Trường học",
+    "slug": "jpd113-l1",
+    "course": "jpd113"
+  },
+  {
+    "word": "一日",
+    "reading": "ついたち",
+    "meaning": "Ngày mồng 1",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "slug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "一月",
+    "reading": "いちがつ",
+    "meaning": "tháng 1",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "slug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "一人",
+    "reading": "ひとり",
+    "meaning": "1 người (cách đọc đặc biệt)",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "slug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "一つ",
+    "reading": "ひとつ",
+    "meaning": "1 chiếc",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "slug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "一",
+    "reading": "いち",
+    "meaning": "Số 1",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "slug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "二日",
+    "reading": "ふつか",
+    "meaning": "Ngày mồng 2",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "slug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "二月",
+    "reading": "にがつ",
+    "meaning": "Tháng 2",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "slug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "二つ",
+    "reading": "ふたつ",
+    "meaning": "2 cái",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "slug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "二",
+    "reading": "に",
+    "meaning": "Số 2",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "slug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "三日",
+    "reading": "みっか",
+    "meaning": "Ngày mồng 3",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "slug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "三月",
+    "reading": "さんがつ",
+    "meaning": "tháng 3",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "slug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "三人",
+    "reading": "さんにん",
+    "meaning": "3 người",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "slug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "三",
+    "reading": "さん",
+    "meaning": "Số 3",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "slug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "四日",
+    "reading": "よっか",
+    "meaning": "Ngày mồng 4",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "slug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "四月",
+    "reading": "しがつ",
+    "meaning": "tháng 4",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "slug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "四人",
+    "reading": "よにん",
+    "meaning": "4 người",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "slug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "四",
+    "reading": "よん",
+    "meaning": "Số 4",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "slug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "五日",
+    "reading": "いつか",
+    "meaning": "Ngày mồng 5",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "slug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "五月",
+    "reading": "ごがつ",
+    "meaning": "tháng 5",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "slug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "五つ",
+    "reading": "いつつ",
+    "meaning": "5 cái",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "slug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "五",
+    "reading": "ご",
+    "meaning": "Số 5",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "slug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "六日",
+    "reading": "むいか",
+    "meaning": "Ngày mồng 6",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "slug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "六月",
+    "reading": "ろくがつ",
+    "meaning": "tháng 6",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "slug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "六つ",
+    "reading": "むっつ",
+    "meaning": "6 cái",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "slug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "六",
+    "reading": "ろく",
+    "meaning": "Số 6",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "slug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "七日",
+    "reading": "なのか",
+    "meaning": "Ngày mồng 7",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "slug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "七月",
+    "reading": "しちがつ",
+    "meaning": "tháng 7",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "slug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "七つ",
+    "reading": "ななつ",
+    "meaning": "7 cái",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "slug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "七",
+    "reading": "なな/しち",
+    "meaning": "Số 7",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "slug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "八日",
+    "reading": "ようか",
+    "meaning": "Ngày mồng 8",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "slug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "八月",
+    "reading": "はちがつ",
+    "meaning": "Tháng 8",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "slug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "八つ",
+    "reading": "やっつ",
+    "meaning": "8 cái",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "slug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "八",
+    "reading": "はち",
+    "meaning": "Số 8",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "slug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "九日",
+    "reading": "ここのか",
+    "meaning": "Ngày mồng 9",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "slug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "九月",
+    "reading": "くがつ",
+    "meaning": "tháng 9",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "slug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "九つ",
+    "reading": "ここのつ",
+    "meaning": "9 cái",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "slug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "九",
+    "reading": "きゅう",
+    "meaning": "Số 9",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "slug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "十日",
+    "reading": "とおか",
+    "meaning": "Ngày mồng 10",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "slug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "十月",
+    "reading": "じゅうがつ",
+    "meaning": "tháng 10",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "slug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "十",
+    "reading": "じゅう",
+    "meaning": "Số 10",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "slug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "二百",
+    "reading": "にひゃく",
+    "meaning": "200",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "slug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "三百",
+    "reading": "さんびゃく",
+    "meaning": "300",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "slug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "六百",
+    "reading": "ろっぴゃく",
+    "meaning": "600",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "slug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "八百",
+    "reading": "はっぴゃく",
+    "meaning": "800",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "slug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "千",
+    "reading": "せん",
+    "meaning": "1000",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "slug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "三千",
+    "reading": "さんぜん",
+    "meaning": "3000",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "slug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "八千",
+    "reading": "はっせん",
+    "meaning": "8000",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "slug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "一万",
+    "reading": "いちまん",
+    "meaning": "10.000",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "slug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "百円",
+    "reading": "ひゃくえん",
+    "meaning": "100 Yên",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "slug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "一万円",
+    "reading": "いちまんえん",
+    "meaning": "10.000 Yên",
+    "level": "N5",
+    "topic": "JPD113 - Bài 2: Số đếm và Tiền tệ",
+    "slug": "jpd113-l2",
+    "course": "jpd113"
+  },
+  {
+    "word": "月",
+    "reading": "つき",
+    "meaning": "mặt trăng",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "slug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "一月",
+    "reading": "いちがつ",
+    "meaning": "tháng 1",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "slug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "十二月",
+    "reading": "じゅうにがつ",
+    "meaning": "Tháng 12",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "slug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "月曜日",
+    "reading": "げつようび",
+    "meaning": "Thứ 2",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "slug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "花火",
+    "reading": "はなび",
+    "meaning": "pháo hoa",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "slug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "火",
+    "reading": "ひ",
+    "meaning": "lửa",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "slug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "火曜日",
+    "reading": "かようび",
+    "meaning": "Thứ 3",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "slug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "水",
+    "reading": "みず",
+    "meaning": "nước",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "slug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "水曜日",
+    "reading": "すいようび",
+    "meaning": "Thứ 4",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "slug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "木",
+    "reading": "き",
+    "meaning": "Cây / gỗ",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "slug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "木曜日",
+    "reading": "もくようび",
+    "meaning": "Thứ 5",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "slug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "お金",
+    "reading": "おかね",
+    "meaning": "tiền",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "slug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "金曜日",
+    "reading": "きんようび",
+    "meaning": "Thứ 6",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "slug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "土",
+    "reading": "つち",
+    "meaning": "Đất",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "slug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "土曜日",
+    "reading": "どようび",
+    "meaning": "Thứ 7",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "slug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "何",
+    "reading": "なん/なに",
+    "meaning": "Cái gì",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "slug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "何月",
+    "reading": "なんがつ",
+    "meaning": "tháng mấy",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "slug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "何人",
+    "reading": "なんにん",
+    "meaning": "Mấy người",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "slug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "何曜日",
+    "reading": "なんようび",
+    "meaning": "Thứ mấy",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "slug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "何年",
+    "reading": "なんねん",
+    "meaning": "Năm bao nhiêu",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "slug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "今年",
+    "reading": "ことし",
+    "meaning": "Năm nay",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "slug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "九時",
+    "reading": "くじ",
+    "meaning": "9 giờ",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "slug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "何時",
+    "reading": "なんじ",
+    "meaning": "Mấy giờ",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "slug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "時間",
+    "reading": "じかん",
+    "meaning": "Thời gian",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "slug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "何時間",
+    "reading": "なんじかん",
+    "meaning": "Mấy tiếng",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "slug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "分かります",
+    "reading": "わかります",
+    "meaning": "Hiểu",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "slug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "半分",
+    "reading": "はんぶん",
+    "meaning": "Một nửa",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "slug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "六分",
+    "reading": "ろっぷん",
+    "meaning": "6 phút",
+    "level": "N5",
+    "topic": "JPD113 - Bài 3: Ngày tháng và Thời gian",
+    "slug": "jpd113-l3",
+    "course": "jpd113"
+  },
+  {
+    "word": "東",
+    "reading": "ひがし",
+    "meaning": "Phía đông",
+    "level": "N4",
+    "topic": "JPD123 - Bài 4: Phương hướng và Địa danh",
+    "slug": "jpd123-l4",
+    "course": "jpd123"
+  },
+  {
+    "word": "東京",
+    "reading": "とうきょう",
+    "meaning": "Tokyo",
+    "level": "N4",
+    "topic": "JPD123 - Bài 4: Phương hướng và Địa danh",
+    "slug": "jpd123-l4",
+    "course": "jpd123"
+  },
+  {
+    "word": "午前",
+    "reading": "ごぜん",
+    "meaning": "a.m",
+    "level": "N4",
+    "topic": "JPD123 - Bài 4: Phương hướng và Địa danh",
+    "slug": "jpd123-l4",
+    "course": "jpd123"
+  },
+  {
+    "word": "前日",
+    "reading": "ぜんじつ",
+    "meaning": "ngày trước đó",
+    "level": "N4",
+    "topic": "JPD123 - Bài 4: Phương hướng và Địa danh",
+    "slug": "jpd123-l4",
+    "course": "jpd123"
+  },
+  {
+    "word": "名前",
+    "reading": "なまえ",
+    "meaning": "tên",
+    "level": "N4",
+    "topic": "JPD123 - Bài 4: Phương hướng và Địa danh",
+    "slug": "jpd123-l4",
+    "course": "jpd123"
+  },
+  {
+    "word": "国",
+    "reading": "くに",
+    "meaning": "đất nước, quốc gia",
+    "level": "N4",
+    "topic": "JPD123 - Bài 4: Phương hướng và Địa danh",
+    "slug": "jpd123-l4",
+    "course": "jpd123"
+  },
+  {
+    "word": "外国",
+    "reading": "がいこく",
+    "meaning": "Nước ngoài",
+    "level": "N4",
+    "topic": "JPD123 - Bài 4: Phương hướng và Địa danh",
+    "slug": "jpd123-l4",
+    "course": "jpd123"
+  },
+  {
+    "word": "男の人",
+    "reading": "おとこのひと",
+    "meaning": "người đàn ông",
+    "level": "N4",
+    "topic": "JPD123 - Bài 4: Phương hướng và Địa danh",
+    "slug": "jpd123-l4",
+    "course": "jpd123"
+  },
+  {
+    "word": "女の人",
+    "reading": "おんなのひと",
+    "meaning": "người phụ nữ",
+    "level": "N4",
+    "topic": "JPD123 - Bài 4: Phương hướng và Địa danh",
+    "slug": "jpd123-l4",
+    "course": "jpd123"
+  },
+  {
+    "word": "～区",
+    "reading": "〜く",
+    "meaning": "quận ~",
+    "level": "N4",
+    "topic": "JPD123 - Bài 4: Phương hướng và Địa danh",
+    "slug": "jpd123-l4",
+    "course": "jpd123"
+  },
+  {
+    "word": "～市",
+    "reading": "〜し",
+    "meaning": "Thành phố ~",
+    "level": "N4",
+    "topic": "JPD123 - Bài 4: Phương hướng và Địa danh",
+    "slug": "jpd123-l4",
+    "course": "jpd123"
+  },
+  {
+    "word": "前",
+    "reading": "まえ",
+    "meaning": "Trước",
+    "level": "N4",
+    "topic": "JPD123 - Bài 4: Phương hướng và Địa danh",
+    "slug": "jpd123-l4",
+    "course": "jpd123"
+  },
+  {
+    "word": "京都",
+    "reading": "きょうと",
+    "meaning": "Kyoto",
+    "level": "N4",
+    "topic": "JPD123 - Bài 4: Phương hướng và Địa danh",
+    "slug": "jpd123-l4",
+    "course": "jpd123"
+  },
+  {
+    "word": "外国人",
+    "reading": "がいこくじん",
+    "meaning": "người nước ngoài",
+    "level": "N4",
+    "topic": "JPD123 - Bài 4: Phương hướng và Địa danh",
+    "slug": "jpd123-l4",
+    "course": "jpd123"
+  },
+  {
+    "word": "男女",
+    "reading": "だんじょ",
+    "meaning": "nam nữ",
+    "level": "N4",
+    "topic": "JPD123 - Bài 4: Phương hướng và Địa danh",
+    "slug": "jpd123-l4",
+    "course": "jpd123"
+  },
+  {
+    "word": "先生",
+    "reading": "せんせい",
+    "meaning": "thầy/cô giáo",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "slug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "先日",
+    "reading": "せんじつ",
+    "meaning": "vài ngày trước",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "slug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "先月",
+    "reading": "せんげつ",
+    "meaning": "Tháng trước",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "slug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "先週",
+    "reading": "せんしゅう",
+    "meaning": "Tuần trước",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "slug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "一週間",
+    "reading": "いっしゅうかん",
+    "meaning": "1 tuần",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "slug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "毎日",
+    "reading": "まいにち",
+    "meaning": "mỗi ngày",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "slug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "毎週",
+    "reading": "まいしゅう",
+    "meaning": "Hàng tuần",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "slug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "毎年",
+    "reading": "まいとし/まいねん",
+    "meaning": "mỗi năm",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "slug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "毎月",
+    "reading": "まいつき",
+    "meaning": "mỗi tháng",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "slug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "後ろ",
+    "reading": "うしろ",
+    "meaning": "Sau",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "slug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "後",
+    "reading": "あと",
+    "meaning": "sau đó",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "slug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "午後",
+    "reading": "ごご",
+    "meaning": "p.m",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "slug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "前後",
+    "reading": "ぜんご",
+    "meaning": "trước sau",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "slug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "見ます",
+    "reading": "みます",
+    "meaning": "nhìn",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "slug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "見学",
+    "reading": "けんがく",
+    "meaning": "tham quan kiến tập",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "slug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "食べます",
+    "reading": "たべます",
+    "meaning": "ăn",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "slug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "食事",
+    "reading": "しょくじ",
+    "meaning": "ăn, bữa ăn",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "slug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "飲みます",
+    "reading": "のみます",
+    "meaning": "uống",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "slug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "飲食",
+    "reading": "いんしょく",
+    "meaning": "ẩm thực",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "slug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "飲み水",
+    "reading": "のみみず",
+    "meaning": "nước uống",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "slug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "休みます",
+    "reading": "やすみます",
+    "meaning": "nghỉ",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "slug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "休みの日",
+    "reading": "やすみのひ",
+    "meaning": "ngày nghỉ",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "slug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "休日",
+    "reading": "きゅうじつ",
+    "meaning": "ngày nghỉ",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "slug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "買います",
+    "reading": "かいます",
+    "meaning": "mua",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "slug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "物",
+    "reading": "もの",
+    "meaning": "đồ vật",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "slug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "買い物",
+    "reading": "かいもの",
+    "meaning": "mua sắm",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "slug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "食べ物",
+    "reading": "たべもの",
+    "meaning": "đồ ăn",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "slug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "飲み物",
+    "reading": "のみもの",
+    "meaning": "đồ uống",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "slug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "人物",
+    "reading": "じんぶつ",
+    "meaning": "nhân vật",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "slug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "見物",
+    "reading": "けんぶつ",
+    "meaning": "tham quan",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "slug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "行きます",
+    "reading": "いきます",
+    "meaning": "đi",
+    "level": "N4",
+    "topic": "JPD123 - Bài 5: Thời gian và Hành động hằng ngày",
+    "slug": "jpd123-l5",
+    "course": "jpd123"
+  },
+  {
+    "word": "今年",
+    "reading": "ことし",
+    "meaning": "Năm nay",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "slug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "今日",
+    "reading": "きょう",
+    "meaning": "Hôm nay",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "slug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "今月",
+    "reading": "こんげつ",
+    "meaning": "Tháng này",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "slug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "今週",
+    "reading": "こんしゅう",
+    "meaning": "Tuần này",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "slug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "来ます",
+    "reading": "きます",
+    "meaning": "đến",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "slug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "来週",
+    "reading": "らいしゅう",
+    "meaning": "Tuần sau",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "slug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "来月",
+    "reading": "らいげつ",
+    "meaning": "Tháng sau",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "slug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "来年",
+    "reading": "らいねん",
+    "meaning": "Sang năm",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "slug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "来日",
+    "reading": "らいにち",
+    "meaning": "đến Nhật Bản",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "slug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "帰ります",
+    "reading": "かえります",
+    "meaning": "về",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "slug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "日帰り",
+    "reading": "ひがえり",
+    "meaning": "đi về trong ngày",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "slug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "帰国",
+    "reading": "きこく",
+    "meaning": "về nước",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "slug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "会います",
+    "reading": "あいます",
+    "meaning": "Gặp gỡ",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "slug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "飲み会",
+    "reading": "のみかい",
+    "meaning": "nhậu",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "slug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "国会",
+    "reading": "こっかい",
+    "meaning": "quốc hội",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "slug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "会見",
+    "reading": "かいけん",
+    "meaning": "họp báo",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "slug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "会社",
+    "reading": "かいしゃ",
+    "meaning": "công ty",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "slug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "社会",
+    "reading": "しゃかい",
+    "meaning": "xã hội",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "slug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "聞きます",
+    "reading": "ききます",
+    "meaning": "nghe",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "slug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "新聞",
+    "reading": "しんぶん",
+    "meaning": "báo",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "slug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "読みます",
+    "reading": "よみます",
+    "meaning": "đọc",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "slug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "読み物",
+    "reading": "よみもの",
+    "meaning": "tài liệu đọc",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "slug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "書きます",
+    "reading": "かきます",
+    "meaning": "viết",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "slug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "読書",
+    "reading": "どくしょ",
+    "meaning": "đọc sách",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "slug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "話します",
+    "reading": "はなします",
+    "meaning": "Nói chuyện",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "slug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "話",
+    "reading": "はなし",
+    "meaning": "câu chuyện",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "slug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "会話",
+    "reading": "かいわ",
+    "meaning": "Hội thoại",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "slug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "電話",
+    "reading": "でんわ",
+    "meaning": "điện thoại",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "slug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "今",
+    "reading": "いま",
+    "meaning": "bây giờ",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "slug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "辞書",
+    "reading": "じしょ",
+    "meaning": "Từ điển",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "slug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "書き物",
+    "reading": "かきもの",
+    "meaning": "tài liệu viết",
+    "level": "N4",
+    "topic": "JPD123 - Bài 6: Động từ chuyển động và Giao tiếp",
+    "slug": "jpd123-l6",
+    "course": "jpd123"
+  },
+  {
+    "word": "肉",
+    "reading": "にく",
+    "meaning": "thịt",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "slug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "牛肉",
+    "reading": "ぎゅうにく",
+    "meaning": "thịt bò",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "slug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "豚肉",
+    "reading": "ぶたにく",
+    "meaning": "thịt heo",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "slug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "鶏肉",
+    "reading": "とりにく",
+    "meaning": "thịt gà",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "slug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "料金",
+    "reading": "りょうきん",
+    "meaning": "tiền phí",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "slug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "料理",
+    "reading": "りょうり",
+    "meaning": "món ăn",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "slug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "野菜",
+    "reading": "やさい",
+    "meaning": "rau",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "slug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "半年",
+    "reading": "はんとし/はんねん",
+    "meaning": "nửa năm",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "slug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "半分",
+    "reading": "はんぶん",
+    "meaning": "Một nửa",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "slug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "半日",
+    "reading": "はんじつ/はんにち",
+    "meaning": "Nửa ngày",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "slug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "半月",
+    "reading": "はんつき",
+    "meaning": "Nửa tháng",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "slug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "七時半",
+    "reading": "しちじはん",
+    "meaning": "7h30",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "slug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "大きい",
+    "reading": "おおきい",
+    "meaning": "To, lớn",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "slug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "大学生",
+    "reading": "だいがくせい",
+    "meaning": "Sinh viên đại học",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "slug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "大人",
+    "reading": "おとな",
+    "meaning": "Người lớn",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "slug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "大会",
+    "reading": "たいかい",
+    "meaning": "đại hội",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "slug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "大半",
+    "reading": "たいはん",
+    "meaning": "Phần lớn",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "slug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "大学",
+    "reading": "だいがく",
+    "meaning": "Đại học",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "slug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "小さい",
+    "reading": "ちいさい",
+    "meaning": "Nhỏ",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "slug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "小学校",
+    "reading": "しょうがっこう",
+    "meaning": "Trường tiểu học",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "slug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "小学生",
+    "reading": "しょうがくせい",
+    "meaning": "Học sinh tiểu học, cấp 1",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "slug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "小人",
+    "reading": "こびと",
+    "meaning": "đứa trẻ, người tí hon",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "slug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "お寺",
+    "reading": "おてら",
+    "meaning": "chùa",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "slug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "言います",
+    "reading": "いいます",
+    "meaning": "nói",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "slug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "言語",
+    "reading": "げんご",
+    "meaning": "ngôn ngữ",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "slug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "言葉",
+    "reading": "ことば",
+    "meaning": "từ vựng",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "slug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "貝",
+    "reading": "かい",
+    "meaning": "con sò",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "slug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "田んぼ",
+    "reading": "たんぼ",
+    "meaning": "cánh đồng",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "slug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "水田",
+    "reading": "すいでん",
+    "meaning": "cánh đồng lúa nước",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "slug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "力",
+    "reading": "ちから",
+    "meaning": "sức lực",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "slug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "水力",
+    "reading": "すいりょく",
+    "meaning": "sức nước",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "slug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "火力",
+    "reading": "かりょく",
+    "meaning": "công suất nhiệt, hỏa lực",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "slug": "jpd123-l7",
+    "course": "jpd123"
+  },
+  {
+    "word": "門",
+    "reading": "もん",
+    "meaning": "cổng, cửa",
+    "level": "N4",
+    "topic": "JPD123 - Bài 7: Thiên nhiên, Món ăn và Cuộc sống",
+    "slug": "jpd123-l7",
+    "course": "jpd123"
+  }
+]

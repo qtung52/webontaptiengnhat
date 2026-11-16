@@ -151,6 +151,47 @@ export default function StudyHubPage() {
         </div>
       </div>
 
+      {/* Switcher Phân Vùng Luyện Tập: Từ Vựng vs Hán Tự */}
+      <div className="grid grid-cols-1 sm:grid-cols-2 gap-3.5">
+        <div className="p-4 rounded-2xl bg-gradient-to-r from-torii-500 to-rose-600 text-white shadow-md shadow-torii-500/20 flex items-center justify-between">
+          <div className="flex items-center gap-3">
+            <div className="w-10 h-10 rounded-xl bg-white/20 flex items-center justify-center font-black">
+              語
+            </div>
+            <div>
+              <p className="text-sm font-black">Luyện Từ Vựng (Vocabulary)</p>
+              <p className="text-xs text-white/80">{studyWords.length} từ vựng đang chọn</p>
+            </div>
+          </div>
+          <span className="text-[11px] font-black px-2 py-0.5 rounded-full bg-white/25 text-white">
+            Đang mở
+          </span>
+        </div>
+
+        <Link
+          href="/kanji/study"
+          className="p-4 rounded-2xl bg-white/80 dark:bg-stone-900/80 backdrop-blur-xl border border-stone-200/80 dark:border-white/[0.08] hover:border-torii-500/40 text-stone-800 dark:text-stone-200 flex items-center justify-between group shadow-sm transition-all active:scale-[0.99]"
+        >
+          <div className="flex items-center gap-3">
+            <div className="w-10 h-10 rounded-xl bg-torii-500/10 text-torii-500 flex items-center justify-center font-black group-hover:scale-110 transition-transform">
+              漢
+            </div>
+            <div>
+              <div className="flex items-center gap-1.5">
+                <p className="text-sm font-black group-hover:text-torii-500 transition-colors">
+                  Luyện Chữ Hán (Kanji Dojo)
+                </p>
+                <span className="text-[10px] font-black px-1.5 py-0.5 rounded-md bg-amber-500 text-white">
+                  MỚI
+                </span>
+              </div>
+              <p className="text-xs text-stone-400">117 Hán tự • Flashcard, Trắc nghiệm, Luyện gõ, Ghép cặp</p>
+            </div>
+          </div>
+          <ArrowRight size={18} className="text-stone-400 group-hover:text-torii-500 group-hover:translate-x-1 transition-all" />
+        </Link>
+      </div>
+
       {/* 1. Chọn Bộ Giáo Trình (Deck) */}
       <div className="p-6 sm:p-7 rounded-[2rem] bg-white/80 dark:bg-stone-900/80 backdrop-blur-xl border border-stone-200/80 dark:border-white/[0.08] shadow-sm space-y-4">
         <div className="flex items-center justify-between">
